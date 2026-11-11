@@ -1,0 +1,1961 @@
+# Mandi prices (Agmarknet via data.gov.in, Government Open Data Licence - India): for each crop and finished week (Monday to Sunday), the median of every modal price reported, rupees per quintal, and the number of markets on the busiest day.
+# Built 2026-11-12 by Today Market Rates (todaymarketrates.com). Please credit the source and link to the page you used.
+crop,crop_id,week_ending,median_price_per_quintal_inr,markets_busiest_day
+Ajwain,ajwan,2026-08-23,12775,9
+Ajwain,ajwan,2026-08-30,13000,10
+Ajwain,ajwan,2026-09-06,13500,7
+Ajwain,ajwan,2026-09-13,14400,10
+Ajwain,ajwan,2026-09-20,14750,7
+Ajwain,ajwan,2026-09-27,14500,8
+Ajwain,ajwan,2026-10-04,14172,10
+Ajwain,ajwan,2026-10-11,14500,9
+Ajwain,ajwan,2026-10-18,14375,10
+Ajwain,ajwan,2026-10-25,15625,4
+Ajwain,ajwan,2026-11-01,16750,5
+Ajwain,ajwan,2026-11-08,17500,6
+Alasande gram (cowpea),alasande-gram,2026-08-23,7796,5
+Alasande gram (cowpea),alasande-gram,2026-08-30,7555,6
+Alasande gram (cowpea),alasande-gram,2026-09-06,8000,8
+Alasande gram (cowpea),alasande-gram,2026-09-13,8142,5
+Alasande gram (cowpea),alasande-gram,2026-09-20,8539,6
+Alasande gram (cowpea),alasande-gram,2026-09-27,8688,5
+Alasande gram (cowpea),alasande-gram,2026-10-04,8672,6
+Alasande gram (cowpea),alasande-gram,2026-10-11,8512,9
+Alasande gram (cowpea),alasande-gram,2026-10-18,8152,6
+Alasande gram (cowpea),alasande-gram,2026-10-25,7860,3
+Alasande gram (cowpea),alasande-gram,2026-11-01,9500,4
+Alasande gram (cowpea),alasande-gram,2026-11-08,9000,5
+Amaranthus,amaranthus,2026-10-18,2750,214
+Amaranthus,amaranthus,2026-10-25,2750,220
+Amaranthus,amaranthus,2026-11-01,2750,213
+Amaranthus,amaranthus,2026-11-08,2750,220
+Amla,amla,2026-08-23,7750,84
+Amla,amla,2026-08-30,7750,78
+Amla,amla,2026-09-06,8000,88
+Amla,amla,2026-09-13,8500,88
+Amla,amla,2026-09-20,8500,87
+Amla,amla,2026-09-27,8500,92
+Amla,amla,2026-10-04,8500,91
+Amla,amla,2026-10-11,8500,91
+Amla,amla,2026-10-18,8500,95
+Amla,amla,2026-10-25,8500,87
+Amla,amla,2026-11-01,8000,90
+Amla,amla,2026-11-08,7750,91
+Apple,apple,2026-08-23,10500,174
+Apple,apple,2026-08-30,10000,167
+Apple,apple,2026-09-06,10000,172
+Apple,apple,2026-09-13,9000,180
+Apple,apple,2026-09-20,9000,191
+Apple,apple,2026-09-27,8500,190
+Apple,apple,2026-10-04,8500,180
+Apple,apple,2026-10-11,8488,185
+Apple,apple,2026-10-18,8500,182
+Apple,apple,2026-10-25,8500,155
+Apple,apple,2026-11-01,8500,169
+Apple,apple,2026-11-08,9000,151
+"Arecanut (Adike, Supari)",arecanut,2026-08-23,37500,34
+"Arecanut (Adike, Supari)",arecanut,2026-08-30,36700,36
+"Arecanut (Adike, Supari)",arecanut,2026-09-06,35000,40
+"Arecanut (Adike, Supari)",arecanut,2026-09-13,36200,37
+"Arecanut (Adike, Supari)",arecanut,2026-09-20,34900,35
+"Arecanut (Adike, Supari)",arecanut,2026-09-27,30522,42
+"Arecanut (Adike, Supari)",arecanut,2026-10-04,30000,39
+"Arecanut (Adike, Supari)",arecanut,2026-10-11,30000,43
+"Arecanut (Adike, Supari)",arecanut,2026-10-18,34500,36
+"Arecanut (Adike, Supari)",arecanut,2026-10-25,31094,22
+"Arecanut (Adike, Supari)",arecanut,2026-11-01,30000,34
+"Arecanut (Adike, Supari)",arecanut,2026-11-08,33250,27
+Ash gourd,ashgourd,2026-08-23,2250,226
+Ash gourd,ashgourd,2026-08-30,2250,207
+Ash gourd,ashgourd,2026-09-06,2200,222
+Ash gourd,ashgourd,2026-09-13,2100,229
+Ash gourd,ashgourd,2026-09-20,2100,234
+Ash gourd,ashgourd,2026-09-27,2000,236
+Ash gourd,ashgourd,2026-10-04,2000,230
+Ash gourd,ashgourd,2026-10-11,2000,240
+Ash gourd,ashgourd,2026-10-18,2200,231
+Ash gourd,ashgourd,2026-10-25,2250,210
+Ash gourd,ashgourd,2026-11-01,2000,227
+Ash gourd,ashgourd,2026-11-08,2050,211
+Baby corn,baby-corn,2026-10-18,2750,16
+Baby corn,baby-corn,2026-10-25,2750,16
+Baby corn,baby-corn,2026-11-01,2750,14
+Baby corn,baby-corn,2026-11-08,2750,17
+Bajra,bajra,2026-08-23,2275,136
+Bajra,bajra,2026-08-30,2275,116
+Bajra,bajra,2026-09-06,2300,122
+Bajra,bajra,2026-09-13,2300,137
+Bajra,bajra,2026-09-20,2250,158
+Bajra,bajra,2026-09-27,2275,184
+Bajra,bajra,2026-10-04,2250,203
+Bajra,bajra,2026-10-11,2320,217
+Bajra,bajra,2026-10-18,2350,198
+Bajra,bajra,2026-10-25,2400,130
+Bajra,bajra,2026-11-01,2500,167
+Bajra,bajra,2026-11-08,2550,139
+Banana,banana,2026-08-23,5000,434
+Banana,banana,2026-08-30,4800,410
+Banana,banana,2026-09-06,4800,419
+Banana,banana,2026-09-13,4700,419
+Banana,banana,2026-09-20,4500,422
+Banana,banana,2026-09-27,4500,424
+Banana,banana,2026-10-04,4500,426
+Banana,banana,2026-10-11,4800,433
+Banana,banana,2026-10-18,5000,445
+Banana,banana,2026-10-25,5500,372
+Banana,banana,2026-11-01,5250,397
+Banana,banana,2026-11-08,5000,330
+Barley (Jau),barley,2026-08-23,2512,28
+Barley (Jau),barley,2026-08-30,2444,20
+Barley (Jau),barley,2026-09-06,2500,32
+Barley (Jau),barley,2026-09-13,2500,28
+Barley (Jau),barley,2026-09-20,2528,25
+Barley (Jau),barley,2026-09-27,2600,24
+Barley (Jau),barley,2026-10-04,2625,33
+Barley (Jau),barley,2026-10-11,2694,29
+Barley (Jau),barley,2026-10-18,2800,28
+Barley (Jau),barley,2026-10-25,2800,13
+Barley (Jau),barley,2026-11-01,2803,20
+Barley (Jau),barley,2026-11-08,2832,10
+Beans,beans,2026-08-23,8500,176
+Beans,beans,2026-08-30,8000,180
+Beans,beans,2026-09-06,7500,183
+Beans,beans,2026-09-13,7500,183
+Beans,beans,2026-09-20,7725,185
+Beans,beans,2026-09-27,8750,191
+Beans,beans,2026-10-04,10000,186
+Beans,beans,2026-10-11,9000,186
+Beans,beans,2026-10-18,8000,182
+Beans,beans,2026-10-25,7925,171
+Beans,beans,2026-11-01,8500,176
+Beans,beans,2026-11-08,8500,171
+Beetroot,beetroot,2026-08-23,5000,252
+Beetroot,beetroot,2026-08-30,4750,247
+Beetroot,beetroot,2026-09-06,4500,253
+Beetroot,beetroot,2026-09-13,4400,265
+Beetroot,beetroot,2026-09-20,4500,263
+Beetroot,beetroot,2026-09-27,4500,262
+Beetroot,beetroot,2026-10-04,4500,260
+Beetroot,beetroot,2026-10-11,4500,265
+Beetroot,beetroot,2026-10-18,4500,249
+Beetroot,beetroot,2026-10-25,4500,231
+Beetroot,beetroot,2026-11-01,4500,243
+Beetroot,beetroot,2026-11-08,4250,227
+Bengal Gram (Chana),bengal-gram,2026-08-23,5824,245
+Bengal Gram (Chana),bengal-gram,2026-08-30,5805,233
+Bengal Gram (Chana),bengal-gram,2026-09-06,5800,225
+Bengal Gram (Chana),bengal-gram,2026-09-13,5975,216
+Bengal Gram (Chana),bengal-gram,2026-09-20,5976,223
+Bengal Gram (Chana),bengal-gram,2026-09-27,6250,212
+Bengal Gram (Chana),bengal-gram,2026-10-04,6400,206
+Bengal Gram (Chana),bengal-gram,2026-10-11,6848,218
+Bengal Gram (Chana),bengal-gram,2026-10-18,6900,214
+Bengal Gram (Chana),bengal-gram,2026-10-25,6700,167
+Bengal Gram (Chana),bengal-gram,2026-11-01,6800,229
+Bengal Gram (Chana),bengal-gram,2026-11-08,6770,185
+Betel leaves,betal-leaves,2026-08-23,15000,18
+Betel leaves,betal-leaves,2026-08-30,15000,20
+Betel leaves,betal-leaves,2026-09-06,12500,22
+Betel leaves,betal-leaves,2026-09-13,13500,20
+Betel leaves,betal-leaves,2026-09-20,15000,21
+Betel leaves,betal-leaves,2026-09-27,15000,22
+Betel leaves,betal-leaves,2026-10-04,15000,21
+Betel leaves,betal-leaves,2026-10-11,15000,20
+Betel leaves,betal-leaves,2026-10-18,16000,19
+Betel leaves,betal-leaves,2026-10-25,17000,16
+Betel leaves,betal-leaves,2026-11-01,16000,20
+Betel leaves,betal-leaves,2026-11-08,15000,18
+Bitter gourd,bitter-gourd,2026-08-23,4500,453
+Bitter gourd,bitter-gourd,2026-08-30,4350,436
+Bitter gourd,bitter-gourd,2026-09-06,4250,441
+Bitter gourd,bitter-gourd,2026-09-13,4250,464
+Bitter gourd,bitter-gourd,2026-09-20,4300,451
+Bitter gourd,bitter-gourd,2026-09-27,4250,466
+Bitter gourd,bitter-gourd,2026-10-04,4500,452
+Bitter gourd,bitter-gourd,2026-10-11,4750,436
+Bitter gourd,bitter-gourd,2026-10-18,5000,427
+Bitter gourd,bitter-gourd,2026-10-25,4750,353
+Bitter gourd,bitter-gourd,2026-11-01,4600,408
+Bitter gourd,bitter-gourd,2026-11-08,4750,388
+Black Gram (Urad),black-gram,2026-08-23,7999,70
+Black Gram (Urad),black-gram,2026-08-30,8100,73
+Black Gram (Urad),black-gram,2026-09-06,8050,79
+Black Gram (Urad),black-gram,2026-09-13,8150,102
+Black Gram (Urad),black-gram,2026-09-20,8003,127
+Black Gram (Urad),black-gram,2026-09-27,8000,164
+Black Gram (Urad),black-gram,2026-10-04,7800,190
+Black Gram (Urad),black-gram,2026-10-11,8150,202
+Black Gram (Urad),black-gram,2026-10-18,8100,200
+Black Gram (Urad),black-gram,2026-10-25,8200,158
+Black Gram (Urad),black-gram,2026-11-01,7870,197
+Black Gram (Urad),black-gram,2026-11-08,7800,153
+Black pepper,black-pepper,2026-08-23,67000,20
+Black pepper,black-pepper,2026-08-30,66000,17
+Black pepper,black-pepper,2026-09-06,67000,18
+Black pepper,black-pepper,2026-09-13,67200,20
+Black pepper,black-pepper,2026-09-20,67750,19
+Black pepper,black-pepper,2026-09-27,68000,21
+Black pepper,black-pepper,2026-10-04,68000,18
+Black pepper,black-pepper,2026-10-11,67854,22
+Black pepper,black-pepper,2026-10-18,69000,22
+Black pepper,black-pepper,2026-10-25,68000,13
+Black pepper,black-pepper,2026-11-01,69500,17
+Black pepper,black-pepper,2026-11-08,70599,14
+Bottle gourd,bottle-gourd,2026-08-23,2000,447
+Bottle gourd,bottle-gourd,2026-08-30,1900,405
+Bottle gourd,bottle-gourd,2026-09-06,1900,429
+Bottle gourd,bottle-gourd,2026-09-13,1800,434
+Bottle gourd,bottle-gourd,2026-09-20,1750,435
+Bottle gourd,bottle-gourd,2026-09-27,1800,429
+Bottle gourd,bottle-gourd,2026-10-04,1900,419
+Bottle gourd,bottle-gourd,2026-10-11,1800,432
+Bottle gourd,bottle-gourd,2026-10-18,1900,413
+Bottle gourd,bottle-gourd,2026-10-25,1850,366
+Bottle gourd,bottle-gourd,2026-11-01,1800,409
+Bottle gourd,bottle-gourd,2026-11-08,1900,360
+Brinjal,brinjal,2026-08-23,3400,613
+Brinjal,brinjal,2026-08-30,3250,611
+Brinjal,brinjal,2026-09-06,3100,604
+Brinjal,brinjal,2026-09-13,3000,630
+Brinjal,brinjal,2026-09-20,3000,615
+Brinjal,brinjal,2026-09-27,3000,638
+Brinjal,brinjal,2026-10-04,3008,623
+Brinjal,brinjal,2026-10-11,3200,604
+Brinjal,brinjal,2026-10-18,3000,633
+Brinjal,brinjal,2026-10-25,3000,487
+Brinjal,brinjal,2026-11-01,3250,579
+Brinjal,brinjal,2026-11-08,3600,524
+Broken rice,broken-rice,2026-08-23,2050,9
+Broken rice,broken-rice,2026-08-30,2100,6
+Broken rice,broken-rice,2026-09-06,2050,7
+Broken rice,broken-rice,2026-09-13,2025,7
+Broken rice,broken-rice,2026-09-20,2050,8
+Broken rice,broken-rice,2026-09-27,2000,12
+Broken rice,broken-rice,2026-10-04,2050,5
+Broken rice,broken-rice,2026-10-11,2000,6
+Broken rice,broken-rice,2026-10-18,2000,7
+Broken rice,broken-rice,2026-10-25,2300,8
+Broken rice,broken-rice,2026-11-08,2000,4
+Cabbage,cabbage,2026-08-23,2750,419
+Cabbage,cabbage,2026-08-30,2600,394
+Cabbage,cabbage,2026-09-06,2550,418
+Cabbage,cabbage,2026-09-13,2500,433
+Cabbage,cabbage,2026-09-20,2500,421
+Cabbage,cabbage,2026-09-27,2500,438
+Cabbage,cabbage,2026-10-04,2400,421
+Cabbage,cabbage,2026-10-11,2350,430
+Cabbage,cabbage,2026-10-18,2250,419
+Cabbage,cabbage,2026-10-25,2300,361
+Cabbage,cabbage,2026-11-01,2400,412
+Cabbage,cabbage,2026-11-08,2250,388
+Capsicum,capsicum,2026-08-23,5000,215
+Capsicum,capsicum,2026-08-30,5000,207
+Capsicum,capsicum,2026-09-06,4750,207
+Capsicum,capsicum,2026-09-13,4500,222
+Capsicum,capsicum,2026-09-20,4750,216
+Capsicum,capsicum,2026-09-27,5000,225
+Capsicum,capsicum,2026-10-04,5000,221
+Capsicum,capsicum,2026-10-11,5500,212
+Capsicum,capsicum,2026-10-18,5750,212
+Capsicum,capsicum,2026-10-25,6200,174
+Capsicum,capsicum,2026-11-01,5800,190
+Capsicum,capsicum,2026-11-08,5500,175
+Carrot,carrot,2026-08-23,6750,308
+Carrot,carrot,2026-08-30,6000,302
+Carrot,carrot,2026-09-06,5500,312
+Carrot,carrot,2026-09-13,5100,319
+Carrot,carrot,2026-09-20,5000,310
+Carrot,carrot,2026-09-27,4500,319
+Carrot,carrot,2026-10-04,4500,307
+Carrot,carrot,2026-10-11,4500,334
+Carrot,carrot,2026-10-18,4250,322
+Carrot,carrot,2026-10-25,4400,279
+Carrot,carrot,2026-11-01,4250,316
+Carrot,carrot,2026-11-08,4000,314
+Castor seed,castor-seed,2026-10-18,8090,36
+Castor seed,castor-seed,2026-10-25,8525,37
+Castor seed,castor-seed,2026-11-01,8252,37
+Castor seed,castor-seed,2026-11-08,7862,37
+Cauliflower,cauliflower,2026-08-23,3500,373
+Cauliflower,cauliflower,2026-08-30,3500,370
+Cauliflower,cauliflower,2026-09-06,3250,377
+Cauliflower,cauliflower,2026-09-13,3250,388
+Cauliflower,cauliflower,2026-09-20,3250,392
+Cauliflower,cauliflower,2026-09-27,3200,413
+Cauliflower,cauliflower,2026-10-04,3200,415
+Cauliflower,cauliflower,2026-10-11,3200,415
+Cauliflower,cauliflower,2026-10-18,3000,431
+Cauliflower,cauliflower,2026-10-25,2900,384
+Cauliflower,cauliflower,2026-11-01,2750,420
+Cauliflower,cauliflower,2026-11-08,2750,387
+Chana dal,bengal-gram-dal,2026-08-23,7600,16
+Chana dal,bengal-gram-dal,2026-08-30,7663,15
+Chana dal,bengal-gram-dal,2026-09-06,7600,25
+Chana dal,bengal-gram-dal,2026-09-13,7750,15
+Chana dal,bengal-gram-dal,2026-09-20,7783,17
+Chana dal,bengal-gram-dal,2026-09-27,7900,17
+Chana dal,bengal-gram-dal,2026-10-04,7900,23
+Chana dal,bengal-gram-dal,2026-10-11,8300,18
+Chana dal,bengal-gram-dal,2026-10-18,8388,22
+Chana dal,bengal-gram-dal,2026-10-25,8800,7
+Chana dal,bengal-gram-dal,2026-11-01,9875,9
+Chana dal,bengal-gram-dal,2026-11-08,10750,6
+Chilly capsicum,chilly-capsicum,2026-08-23,2600,32
+Chilly capsicum,chilly-capsicum,2026-08-30,2500,34
+Chilly capsicum,chilly-capsicum,2026-09-06,2000,31
+Chilly capsicum,chilly-capsicum,2026-09-13,2000,34
+Chilly capsicum,chilly-capsicum,2026-09-20,2180,32
+Chilly capsicum,chilly-capsicum,2026-09-27,2400,37
+Chilly capsicum,chilly-capsicum,2026-10-04,2500,34
+Chilly capsicum,chilly-capsicum,2026-10-11,3000,30
+Chilly capsicum,chilly-capsicum,2026-10-18,3250,30
+Chilly capsicum,chilly-capsicum,2026-10-25,3000,27
+Chilly capsicum,chilly-capsicum,2026-11-01,3000,33
+Chilly capsicum,chilly-capsicum,2026-11-08,2700,28
+Chow chow (chayote),chow-chow,2026-08-23,3650,130
+Chow chow (chayote),chow-chow,2026-08-30,3700,129
+Chow chow (chayote),chow-chow,2026-09-06,3750,133
+Chow chow (chayote),chow-chow,2026-09-13,3350,138
+Chow chow (chayote),chow-chow,2026-09-20,3600,138
+Chow chow (chayote),chow-chow,2026-09-27,3500,139
+Chow chow (chayote),chow-chow,2026-10-04,3600,137
+Chow chow (chayote),chow-chow,2026-10-11,3500,139
+Chow chow (chayote),chow-chow,2026-10-18,3600,133
+Chow chow (chayote),chow-chow,2026-10-25,3600,131
+Chow chow (chayote),chow-chow,2026-11-01,3500,130
+Chow chow (chayote),chow-chow,2026-11-08,3500,131
+Cluster beans,cluster-beans,2026-08-23,3800,217
+Cluster beans,cluster-beans,2026-08-30,3750,211
+Cluster beans,cluster-beans,2026-09-06,3600,218
+Cluster beans,cluster-beans,2026-09-13,3600,223
+Cluster beans,cluster-beans,2026-09-20,3750,224
+Cluster beans,cluster-beans,2026-09-27,3750,225
+Cluster beans,cluster-beans,2026-10-04,3850,219
+Cluster beans,cluster-beans,2026-10-11,4000,215
+Cluster beans,cluster-beans,2026-10-18,3800,221
+Cluster beans,cluster-beans,2026-10-25,3750,199
+Cluster beans,cluster-beans,2026-11-01,3800,211
+Cluster beans,cluster-beans,2026-11-08,4000,205
+Coconut,coconut,2026-08-23,5750,216
+Coconut,coconut,2026-08-30,5750,215
+Coconut,coconut,2026-09-06,5800,227
+Coconut,coconut,2026-09-13,5800,228
+Coconut,coconut,2026-09-20,5800,224
+Coconut,coconut,2026-09-27,5800,225
+Coconut,coconut,2026-10-04,5750,221
+Coconut,coconut,2026-10-11,5750,223
+Coconut,coconut,2026-10-18,5750,202
+Coconut,coconut,2026-10-25,5750,204
+Coconut,coconut,2026-11-01,5800,212
+Coconut,coconut,2026-11-08,5750,205
+Coconut Seed,coconut-seed,2026-08-23,6000,8
+Coconut Seed,coconut-seed,2026-08-30,6500,8
+Coconut Seed,coconut-seed,2026-09-06,6000,9
+Coconut Seed,coconut-seed,2026-09-13,5900,8
+Coconut Seed,coconut-seed,2026-09-20,5500,7
+Coconut Seed,coconut-seed,2026-09-27,6000,9
+Coconut Seed,coconut-seed,2026-10-04,6000,8
+Coconut Seed,coconut-seed,2026-10-11,5500,9
+Coconut Seed,coconut-seed,2026-10-18,5500,7
+Coconut Seed,coconut-seed,2026-10-25,5800,4
+Coconut Seed,coconut-seed,2026-11-01,6000,7
+Coconut Seed,coconut-seed,2026-11-08,5800,7
+Colocasia (arbi),colocasia,2026-08-23,4500,160
+Colocasia (arbi),colocasia,2026-08-30,4500,156
+Colocasia (arbi),colocasia,2026-09-06,4400,158
+Colocasia (arbi),colocasia,2026-09-13,4500,165
+Colocasia (arbi),colocasia,2026-09-20,4500,156
+Colocasia (arbi),colocasia,2026-09-27,4750,161
+Colocasia (arbi),colocasia,2026-10-04,4750,148
+Colocasia (arbi),colocasia,2026-10-11,4750,153
+Colocasia (arbi),colocasia,2026-10-18,5000,145
+Colocasia (arbi),colocasia,2026-10-25,5000,115
+Colocasia (arbi),colocasia,2026-11-01,4900,128
+Colocasia (arbi),colocasia,2026-11-08,5000,116
+Copra,copra,2026-08-23,16000,17
+Copra,copra,2026-08-30,16000,16
+Copra,copra,2026-09-06,14500,16
+Copra,copra,2026-09-13,14400,18
+Copra,copra,2026-09-20,16000,23
+Copra,copra,2026-09-27,15750,18
+Copra,copra,2026-10-04,16000,21
+Copra,copra,2026-10-11,14350,20
+Copra,copra,2026-10-18,13500,12
+Copra,copra,2026-10-25,14150,6
+Copra,copra,2026-11-01,14200,20
+Copra,copra,2026-11-08,14000,10
+Coriander leaves,coriander-leaves,2026-08-23,4250,237
+Coriander leaves,coriander-leaves,2026-08-30,4000,235
+Coriander leaves,coriander-leaves,2026-09-06,4000,250
+Coriander leaves,coriander-leaves,2026-09-13,4000,254
+Coriander leaves,coriander-leaves,2026-09-20,4400,260
+Coriander leaves,coriander-leaves,2026-09-27,4550,265
+Coriander leaves,coriander-leaves,2026-10-04,5750,255
+Coriander leaves,coriander-leaves,2026-10-11,6750,251
+Coriander leaves,coriander-leaves,2026-10-18,7200,261
+Coriander leaves,coriander-leaves,2026-10-25,7000,230
+Coriander leaves,coriander-leaves,2026-11-01,8050,250
+Coriander leaves,coriander-leaves,2026-11-08,7500,239
+Coriander seed,corriander-seed,2026-08-23,13850,25
+Coriander seed,corriander-seed,2026-08-30,14000,26
+Coriander seed,corriander-seed,2026-09-06,13600,21
+Coriander seed,corriander-seed,2026-09-13,13500,25
+Coriander seed,corriander-seed,2026-09-20,13500,19
+Coriander seed,corriander-seed,2026-09-27,13500,25
+Coriander seed,corriander-seed,2026-10-04,13350,28
+Coriander seed,corriander-seed,2026-10-11,13500,26
+Coriander seed,corriander-seed,2026-10-18,14500,24
+Coriander seed,corriander-seed,2026-10-25,14595,17
+Coriander seed,corriander-seed,2026-11-01,14562,24
+Coriander seed,corriander-seed,2026-11-08,14500,16
+Cotton,cotton,2026-08-23,8520,37
+Cotton,cotton,2026-08-30,8300,47
+Cotton,cotton,2026-09-06,8200,52
+Cotton,cotton,2026-09-13,8650,79
+Cotton,cotton,2026-09-20,8701,100
+Cotton,cotton,2026-09-27,8501,124
+Cotton,cotton,2026-10-04,8350,140
+Cotton,cotton,2026-10-11,8511,147
+Cotton,cotton,2026-10-18,8990,156
+Cotton,cotton,2026-10-25,9100,139
+Cotton,cotton,2026-11-01,8925,177
+Cotton,cotton,2026-11-08,8800,142
+Cowpea (Bobbarlu),cowpea,2026-08-23,8240,10
+Cowpea (Bobbarlu),cowpea,2026-08-30,8200,11
+Cowpea (Bobbarlu),cowpea,2026-09-06,8112,10
+Cowpea (Bobbarlu),cowpea,2026-09-13,8400,11
+Cowpea (Bobbarlu),cowpea,2026-09-20,7425,14
+Cowpea (Bobbarlu),cowpea,2026-09-27,7890,13
+Cowpea (Bobbarlu),cowpea,2026-10-04,7600,20
+Cowpea (Bobbarlu),cowpea,2026-10-11,7588,16
+Cowpea (Bobbarlu),cowpea,2026-10-18,9000,15
+Cowpea (Bobbarlu),cowpea,2026-10-25,9000,8
+Cowpea (Bobbarlu),cowpea,2026-11-01,9197,10
+Cowpea (Bobbarlu),cowpea,2026-11-08,8978,9
+Cowpea (vegetable),cowpea-veg,2026-08-23,4800,143
+Cowpea (vegetable),cowpea-veg,2026-08-30,4500,118
+Cowpea (vegetable),cowpea-veg,2026-09-06,4300,139
+Cowpea (vegetable),cowpea-veg,2026-09-13,4500,143
+Cowpea (vegetable),cowpea-veg,2026-09-20,4400,150
+Cowpea (vegetable),cowpea-veg,2026-09-27,4500,154
+Cowpea (vegetable),cowpea-veg,2026-10-04,4750,144
+Cowpea (vegetable),cowpea-veg,2026-10-11,4600,162
+Cowpea (vegetable),cowpea-veg,2026-10-18,4500,159
+Cowpea (vegetable),cowpea-veg,2026-10-25,4250,119
+Cowpea (vegetable),cowpea-veg,2026-11-01,4700,131
+Cowpea (vegetable),cowpea-veg,2026-11-08,4800,132
+Cucumber,cucumber,2026-08-23,2575,406
+Cucumber,cucumber,2026-08-30,2600,392
+Cucumber,cucumber,2026-09-06,2750,394
+Cucumber,cucumber,2026-09-13,2700,409
+Cucumber,cucumber,2026-09-20,2800,414
+Cucumber,cucumber,2026-09-27,3000,427
+Cucumber,cucumber,2026-10-04,3000,395
+Cucumber,cucumber,2026-10-11,3000,393
+Cucumber,cucumber,2026-10-18,3100,374
+Cucumber,cucumber,2026-10-25,3100,331
+Cucumber,cucumber,2026-11-01,3000,369
+Cucumber,cucumber,2026-11-08,3000,314
+Cumin seed (Jeera),cummin-seed,2026-08-23,18500,40
+Cumin seed (Jeera),cummin-seed,2026-08-30,18630,37
+Cumin seed (Jeera),cummin-seed,2026-09-06,19125,28
+Cumin seed (Jeera),cummin-seed,2026-09-13,19100,35
+Cumin seed (Jeera),cummin-seed,2026-09-20,19200,38
+Cumin seed (Jeera),cummin-seed,2026-09-27,19590,36
+Cumin seed (Jeera),cummin-seed,2026-10-04,19875,41
+Cumin seed (Jeera),cummin-seed,2026-10-11,21800,41
+Cumin seed (Jeera),cummin-seed,2026-10-18,24250,36
+Cumin seed (Jeera),cummin-seed,2026-10-25,24500,32
+Cumin seed (Jeera),cummin-seed,2026-11-01,24000,40
+Cumin seed (Jeera),cummin-seed,2026-11-08,24255,37
+Custard apple,custard-apple,2026-08-23,4750,19
+Custard apple,custard-apple,2026-08-30,4600,19
+Custard apple,custard-apple,2026-09-06,4600,21
+Custard apple,custard-apple,2026-09-13,4500,21
+Custard apple,custard-apple,2026-09-20,4550,18
+Custard apple,custard-apple,2026-09-27,5000,20
+Custard apple,custard-apple,2026-10-04,4675,23
+Custard apple,custard-apple,2026-10-11,4550,24
+Custard apple,custard-apple,2026-10-18,4750,27
+Custard apple,custard-apple,2026-10-25,4500,24
+Custard apple,custard-apple,2026-11-01,4500,25
+Custard apple,custard-apple,2026-11-08,4675,25
+Custard apple (Seetapal),seetapal,2026-08-23,4000,10
+Custard apple (Seetapal),seetapal,2026-08-30,4825,8
+Custard apple (Seetapal),seetapal,2026-09-06,4500,7
+Custard apple (Seetapal),seetapal,2026-09-13,5450,11
+Custard apple (Seetapal),seetapal,2026-09-20,5000,11
+Custard apple (Seetapal),seetapal,2026-09-27,4700,9
+Custard apple (Seetapal),seetapal,2026-10-04,5000,10
+Custard apple (Seetapal),seetapal,2026-10-11,5500,10
+Custard apple (Seetapal),seetapal,2026-10-18,5500,14
+Custard apple (Seetapal),seetapal,2026-10-25,5750,16
+Custard apple (Seetapal),seetapal,2026-11-01,4500,16
+Custard apple (Seetapal),seetapal,2026-11-08,4500,17
+Dhaincha,dhaincha,2026-08-23,7200,1
+Dhaincha,dhaincha,2026-09-27,1500,1
+Dhaincha,dhaincha,2026-10-11,8656,6
+Dhaincha,dhaincha,2026-10-18,8350,7
+Dhaincha,dhaincha,2026-10-25,8239,8
+Dhaincha,dhaincha,2026-11-01,8198,9
+Dhaincha,dhaincha,2026-11-08,7841,7
+Drumstick,drumstick,2026-08-23,3650,238
+Drumstick,drumstick,2026-08-30,3600,229
+Drumstick,drumstick,2026-09-06,3600,237
+Drumstick,drumstick,2026-09-13,3500,248
+Drumstick,drumstick,2026-09-20,3800,244
+Drumstick,drumstick,2026-09-27,4500,258
+Drumstick,drumstick,2026-10-04,4800,240
+Drumstick,drumstick,2026-10-11,5200,250
+Drumstick,drumstick,2026-10-18,5750,256
+Drumstick,drumstick,2026-10-25,6500,218
+Drumstick,drumstick,2026-11-01,8000,226
+Drumstick,drumstick,2026-11-08,8000,213
+Dry ginger,ginger-dry,2026-08-23,11075,19
+Dry ginger,ginger-dry,2026-08-30,10125,15
+Dry ginger,ginger-dry,2026-09-06,11000,18
+Dry ginger,ginger-dry,2026-09-13,12000,17
+Dry ginger,ginger-dry,2026-09-20,12000,20
+Dry ginger,ginger-dry,2026-09-27,12550,16
+Dry ginger,ginger-dry,2026-10-04,12500,18
+Dry ginger,ginger-dry,2026-10-11,11000,18
+Dry ginger,ginger-dry,2026-10-18,10750,19
+Dry ginger,ginger-dry,2026-10-25,7000,13
+Dry ginger,ginger-dry,2026-11-01,6500,12
+Dry ginger,ginger-dry,2026-11-08,6500,10
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-08-23,4500,157
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-08-30,4500,161
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-09-06,4400,155
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-09-13,4250,162
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-09-20,4300,164
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-09-27,4250,163
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-10-04,4300,162
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-10-11,4250,169
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-10-18,4250,173
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-10-25,4400,146
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-11-01,4400,159
+Elephant foot yam (Suran),elephant-yam-amorphophallus,2026-11-08,4400,148
+Fennel (Saunf),soanf,2026-08-23,9000,15
+Fennel (Saunf),soanf,2026-08-30,9500,13
+Fennel (Saunf),soanf,2026-09-06,9662,12
+Fennel (Saunf),soanf,2026-09-13,10000,9
+Fennel (Saunf),soanf,2026-09-20,10200,13
+Fennel (Saunf),soanf,2026-09-27,10500,14
+Fennel (Saunf),soanf,2026-10-04,10250,14
+Fennel (Saunf),soanf,2026-10-11,11104,13
+Fennel (Saunf),soanf,2026-10-18,11750,15
+Fennel (Saunf),soanf,2026-10-25,11800,8
+Fennel (Saunf),soanf,2026-11-01,12375,10
+Fennel (Saunf),soanf,2026-11-08,12500,11
+Fish,fish,2026-08-23,12500,19
+Fish,fish,2026-08-30,8500,20
+Fish,fish,2026-09-06,13500,19
+Fish,fish,2026-09-13,10700,18
+Fish,fish,2026-09-20,9000,21
+Fish,fish,2026-09-27,9900,21
+Fish,fish,2026-10-04,8000,21
+Fish,fish,2026-10-11,9900,19
+Fish,fish,2026-10-18,9900,17
+Fish,fish,2026-10-25,9000,16
+Fish,fish,2026-11-01,20000,8
+Fish,fish,2026-11-08,20000,9
+Foxtail millet (Navane),foxtail-millet,2026-08-23,3826,3
+Foxtail millet (Navane),foxtail-millet,2026-08-30,4027,4
+Foxtail millet (Navane),foxtail-millet,2026-09-06,3840,2
+Foxtail millet (Navane),foxtail-millet,2026-09-13,3802,4
+Foxtail millet (Navane),foxtail-millet,2026-09-20,3725,5
+Foxtail millet (Navane),foxtail-millet,2026-09-27,3942,3
+Foxtail millet (Navane),foxtail-millet,2026-10-04,3933,7
+Foxtail millet (Navane),foxtail-millet,2026-10-11,3900,3
+Foxtail millet (Navane),foxtail-millet,2026-10-18,3850,5
+Foxtail millet (Navane),foxtail-millet,2026-10-25,3900,4
+Foxtail millet (Navane),foxtail-millet,2026-11-01,4622,4
+Foxtail millet (Navane),foxtail-millet,2026-11-08,4925,5
+French beans,french-beans,2026-08-23,6300,70
+French beans,french-beans,2026-08-30,5500,67
+French beans,french-beans,2026-09-06,5000,71
+French beans,french-beans,2026-09-13,5200,75
+French beans,french-beans,2026-09-20,5000,73
+French beans,french-beans,2026-09-27,5000,73
+French beans,french-beans,2026-10-04,5000,69
+French beans,french-beans,2026-10-11,5500,71
+French beans,french-beans,2026-10-18,5000,71
+French beans,french-beans,2026-10-25,5000,54
+French beans,french-beans,2026-11-01,5500,64
+French beans,french-beans,2026-11-08,5200,54
+Garlic,garlic,2026-08-23,15000,246
+Garlic,garlic,2026-08-30,15000,240
+Garlic,garlic,2026-09-06,15350,232
+Garlic,garlic,2026-09-13,15750,240
+Garlic,garlic,2026-09-20,16000,250
+Garlic,garlic,2026-09-27,16000,248
+Garlic,garlic,2026-10-04,15000,254
+Garlic,garlic,2026-10-11,15200,255
+Garlic,garlic,2026-10-18,15250,241
+Garlic,garlic,2026-10-25,18000,195
+Garlic,garlic,2026-11-01,17000,215
+Garlic,garlic,2026-11-08,18550,184
+Ginger,ginger,2026-08-23,14000,317
+Ginger,ginger,2026-08-30,14000,309
+Ginger,ginger,2026-09-06,13000,325
+Ginger,ginger,2026-09-13,12550,334
+Ginger,ginger,2026-09-20,12250,340
+Ginger,ginger,2026-09-27,12100,339
+Ginger,ginger,2026-10-04,11000,340
+Ginger,ginger,2026-10-11,10500,345
+Ginger,ginger,2026-10-18,10000,331
+Ginger,ginger,2026-10-25,10500,279
+Ginger,ginger,2026-11-01,9500,289
+Ginger,ginger,2026-11-08,9000,273
+Grapes,grapes,2026-08-23,10000,38
+Grapes,grapes,2026-08-30,10000,36
+Grapes,grapes,2026-09-06,10000,40
+Grapes,grapes,2026-09-13,10000,40
+Grapes,grapes,2026-09-20,10500,37
+Grapes,grapes,2026-09-27,10625,44
+Grapes,grapes,2026-10-04,10500,41
+Grapes,grapes,2026-10-11,10750,43
+Grapes,grapes,2026-10-18,10250,39
+Grapes,grapes,2026-10-25,11000,39
+Grapes,grapes,2026-11-01,10000,44
+Grapes,grapes,2026-11-08,10000,40
+Green Chilli,green-chilli,2026-08-23,4500,561
+Green Chilli,green-chilli,2026-08-30,4500,558
+Green Chilli,green-chilli,2026-09-06,4150,565
+Green Chilli,green-chilli,2026-09-13,4000,570
+Green Chilli,green-chilli,2026-09-20,4500,564
+Green Chilli,green-chilli,2026-09-27,4400,578
+Green Chilli,green-chilli,2026-10-04,4750,592
+Green Chilli,green-chilli,2026-10-11,5000,563
+Green Chilli,green-chilli,2026-10-18,5000,553
+Green Chilli,green-chilli,2026-10-25,5000,488
+Green Chilli,green-chilli,2026-11-01,4800,501
+Green Chilli,green-chilli,2026-11-08,4740,462
+Green Gram (Moong),green-gram,2026-08-23,6988,167
+Green Gram (Moong),green-gram,2026-08-30,7150,169
+Green Gram (Moong),green-gram,2026-09-06,7500,186
+Green Gram (Moong),green-gram,2026-09-13,7655,207
+Green Gram (Moong),green-gram,2026-09-20,7545,203
+Green Gram (Moong),green-gram,2026-09-27,7800,205
+Green Gram (Moong),green-gram,2026-10-04,7801,220
+Green Gram (Moong),green-gram,2026-10-11,8000,204
+Green Gram (Moong),green-gram,2026-10-18,8108,180
+Green Gram (Moong),green-gram,2026-10-25,8015,109
+Green Gram (Moong),green-gram,2026-11-01,7900,156
+Green Gram (Moong),green-gram,2026-11-08,7850,105
+Green avare (field beans),green-avare,2026-08-23,6000,161
+Green avare (field beans),green-avare,2026-08-30,5500,157
+Green avare (field beans),green-avare,2026-09-06,6000,163
+Green avare (field beans),green-avare,2026-09-13,6200,162
+Green avare (field beans),green-avare,2026-09-20,6500,164
+Green avare (field beans),green-avare,2026-09-27,8000,161
+Green avare (field beans),green-avare,2026-10-04,9500,160
+Green avare (field beans),green-avare,2026-10-11,8500,160
+Green avare (field beans),green-avare,2026-10-18,7500,160
+Green avare (field beans),green-avare,2026-10-25,7000,157
+Green avare (field beans),green-avare,2026-11-01,7950,154
+Green avare (field beans),green-avare,2026-11-08,8500,154
+Green chickpeas (Chholia),gram-raw,2026-08-23,5955,25
+Green chickpeas (Chholia),gram-raw,2026-08-30,6145,24
+Green chickpeas (Chholia),gram-raw,2026-09-06,6252,25
+Green chickpeas (Chholia),gram-raw,2026-09-13,6100,22
+Green chickpeas (Chholia),gram-raw,2026-09-20,6137,22
+Green chickpeas (Chholia),gram-raw,2026-09-27,6323,30
+Green chickpeas (Chholia),gram-raw,2026-10-04,6869,32
+Green chickpeas (Chholia),gram-raw,2026-10-11,6800,22
+Green chickpeas (Chholia),gram-raw,2026-10-18,7000,30
+Green chickpeas (Chholia),gram-raw,2026-10-25,6653,17
+Green chickpeas (Chholia),gram-raw,2026-11-01,4600,3
+Green chickpeas (Chholia),gram-raw,2026-11-08,4800,4
+Green peas,green-peas,2026-08-23,7000,68
+Green peas,green-peas,2026-08-30,7500,70
+Green peas,green-peas,2026-09-06,7500,67
+Green peas,green-peas,2026-09-13,7350,74
+Green peas,green-peas,2026-09-20,7100,74
+Green peas,green-peas,2026-09-27,8000,81
+Green peas,green-peas,2026-10-04,8000,74
+Green peas,green-peas,2026-10-11,7700,85
+Green peas,green-peas,2026-10-18,7700,77
+Green peas,green-peas,2026-10-25,9200,67
+Green peas,green-peas,2026-11-01,6500,71
+Green peas,green-peas,2026-11-08,8000,64
+Groundnut,groundnut,2026-08-23,7000,118
+Groundnut,groundnut,2026-08-30,7000,108
+Groundnut,groundnut,2026-09-06,7000,113
+Groundnut,groundnut,2026-09-13,7000,117
+Groundnut,groundnut,2026-09-20,7000,129
+Groundnut,groundnut,2026-09-27,7000,144
+Groundnut,groundnut,2026-10-04,6962,174
+Groundnut,groundnut,2026-10-11,7000,179
+Groundnut,groundnut,2026-10-18,7128,192
+Groundnut,groundnut,2026-10-25,7250,151
+Groundnut,groundnut,2026-11-01,7150,177
+Groundnut,groundnut,2026-11-08,7000,161
+Groundnut pods (raw),groundnut-pods,2026-08-23,4500,4
+Groundnut pods (raw),groundnut-pods,2026-08-30,3900,3
+Groundnut pods (raw),groundnut-pods,2026-09-06,4000,5
+Groundnut pods (raw),groundnut-pods,2026-09-13,3900,5
+Groundnut pods (raw),groundnut-pods,2026-09-20,4500,4
+Groundnut pods (raw),groundnut-pods,2026-09-27,4500,3
+Groundnut pods (raw),groundnut-pods,2026-10-04,4225,6
+Groundnut pods (raw),groundnut-pods,2026-10-11,4000,6
+Groundnut pods (raw),groundnut-pods,2026-10-18,4500,6
+Groundnut pods (raw),groundnut-pods,2026-10-25,3775,5
+Groundnut pods (raw),groundnut-pods,2026-11-01,3800,6
+Groundnut pods (raw),groundnut-pods,2026-11-08,4000,4
+Groundnut seed,ground-nut-seed,2026-08-23,10070,19
+Groundnut seed,ground-nut-seed,2026-08-30,10450,19
+Groundnut seed,ground-nut-seed,2026-09-06,11288,10
+Groundnut seed,ground-nut-seed,2026-09-13,10500,15
+Groundnut seed,ground-nut-seed,2026-09-20,10500,15
+Groundnut seed,ground-nut-seed,2026-09-27,9625,16
+Groundnut seed,ground-nut-seed,2026-10-04,9450,18
+Groundnut seed,ground-nut-seed,2026-10-11,10500,16
+Groundnut seed,ground-nut-seed,2026-10-18,10500,17
+Groundnut seed,ground-nut-seed,2026-10-25,11100,12
+Groundnut seed,ground-nut-seed,2026-11-01,11100,15
+Groundnut seed,ground-nut-seed,2026-11-08,11500,12
+Guar (cluster beans),guar,2026-08-23,5850,53
+Guar (cluster beans),guar,2026-08-30,5650,56
+Guar (cluster beans),guar,2026-09-06,5425,49
+Guar (cluster beans),guar,2026-09-13,5000,51
+Guar (cluster beans),guar,2026-09-20,5000,53
+Guar (cluster beans),guar,2026-09-27,5000,52
+Guar (cluster beans),guar,2026-10-04,6000,53
+Guar (cluster beans),guar,2026-10-11,6350,63
+Guar (cluster beans),guar,2026-10-18,6275,61
+Guar (cluster beans),guar,2026-10-25,5000,44
+Guar (cluster beans),guar,2026-11-01,5000,61
+Guar (cluster beans),guar,2026-11-08,5000,46
+Guar seed,guar-seed,2026-08-23,5550,38
+Guar seed,guar-seed,2026-08-30,5664,25
+Guar seed,guar-seed,2026-09-06,5900,25
+Guar seed,guar-seed,2026-09-13,5920,20
+Guar seed,guar-seed,2026-09-20,6000,22
+Guar seed,guar-seed,2026-09-27,6100,29
+Guar seed,guar-seed,2026-10-04,6088,27
+Guar seed,guar-seed,2026-10-11,6450,30
+Guar seed,guar-seed,2026-10-18,7185,29
+Guar seed,guar-seed,2026-10-25,7405,30
+Guar seed,guar-seed,2026-11-01,7230,32
+Guar seed,guar-seed,2026-11-08,7350,38
+Guava,guava,2026-08-23,5000,183
+Guava,guava,2026-08-30,5000,179
+Guava,guava,2026-09-06,5200,180
+Guava,guava,2026-09-13,5500,178
+Guava,guava,2026-09-20,5750,159
+Guava,guava,2026-09-27,6000,164
+Guava,guava,2026-10-04,6000,165
+Guava,guava,2026-10-11,6250,166
+Guava,guava,2026-10-18,6250,162
+Guava,guava,2026-10-25,6250,160
+Guava,guava,2026-11-01,6000,167
+Guava,guava,2026-11-08,6000,166
+Horse gram (Kulthi),kulthi,2026-08-23,5238,8
+Horse gram (Kulthi),kulthi,2026-08-30,5000,6
+Horse gram (Kulthi),kulthi,2026-09-06,4922,8
+Horse gram (Kulthi),kulthi,2026-09-13,5200,8
+Horse gram (Kulthi),kulthi,2026-09-20,5500,10
+Horse gram (Kulthi),kulthi,2026-09-27,5290,10
+Horse gram (Kulthi),kulthi,2026-10-04,5100,10
+Horse gram (Kulthi),kulthi,2026-10-11,6000,11
+Horse gram (Kulthi),kulthi,2026-10-18,5519,8
+Horse gram (Kulthi),kulthi,2026-10-25,5000,8
+Horse gram (Kulthi),kulthi,2026-11-01,5860,10
+Horse gram (Kulthi),kulthi,2026-11-08,5850,10
+Indian beans (Seam),indian-beans,2026-08-23,5750,52
+Indian beans (Seam),indian-beans,2026-08-30,5750,50
+Indian beans (Seam),indian-beans,2026-09-06,5750,56
+Indian beans (Seam),indian-beans,2026-09-13,5800,57
+Indian beans (Seam),indian-beans,2026-09-20,5900,58
+Indian beans (Seam),indian-beans,2026-09-27,6000,52
+Indian beans (Seam),indian-beans,2026-10-04,6400,51
+Indian beans (Seam),indian-beans,2026-10-11,6750,52
+Indian beans (Seam),indian-beans,2026-10-18,6600,48
+Indian beans (Seam),indian-beans,2026-10-25,6250,51
+Indian beans (Seam),indian-beans,2026-11-01,6000,49
+Indian beans (Seam),indian-beans,2026-11-08,6250,56
+Isabgol (psyllium),isabgul,2026-08-23,10775,12
+Isabgol (psyllium),isabgul,2026-08-30,11325,7
+Isabgol (psyllium),isabgul,2026-09-06,11450,10
+Isabgol (psyllium),isabgul,2026-09-13,11275,8
+Isabgol (psyllium),isabgul,2026-09-20,11500,9
+Isabgol (psyllium),isabgul,2026-09-27,11800,13
+Isabgol (psyllium),isabgul,2026-10-04,12220,13
+Isabgol (psyllium),isabgul,2026-10-11,13000,14
+Isabgol (psyllium),isabgul,2026-10-18,13500,11
+Isabgol (psyllium),isabgul,2026-10-25,14000,8
+Isabgol (psyllium),isabgul,2026-11-01,13680,12
+Isabgol (psyllium),isabgul,2026-11-08,14331,8
+Ivy gourd (tindora),ivy-gourd,2026-08-23,4250,59
+Ivy gourd (tindora),ivy-gourd,2026-08-30,3255,50
+Ivy gourd (tindora),ivy-gourd,2026-09-06,3300,52
+Ivy gourd (tindora),ivy-gourd,2026-09-13,3500,60
+Ivy gourd (tindora),ivy-gourd,2026-09-20,3800,59
+Ivy gourd (tindora),ivy-gourd,2026-09-27,3550,62
+Ivy gourd (tindora),ivy-gourd,2026-10-04,4000,57
+Ivy gourd (tindora),ivy-gourd,2026-10-11,4000,56
+Ivy gourd (tindora),ivy-gourd,2026-10-18,3600,60
+Ivy gourd (tindora),ivy-gourd,2026-10-25,3300,50
+Ivy gourd (tindora),ivy-gourd,2026-11-01,3000,56
+Ivy gourd (tindora),ivy-gourd,2026-11-08,3100,52
+Jackfruit,jack-fruit,2026-08-23,3000,10
+Jackfruit,jack-fruit,2026-08-30,3000,9
+Jackfruit,jack-fruit,2026-09-06,3250,10
+Jackfruit,jack-fruit,2026-09-13,3250,11
+Jackfruit,jack-fruit,2026-09-20,3250,11
+Jackfruit,jack-fruit,2026-09-27,3750,9
+Jackfruit,jack-fruit,2026-10-04,3250,10
+Jackfruit,jack-fruit,2026-10-11,3250,9
+Jackfruit,jack-fruit,2026-10-18,3750,10
+Jackfruit,jack-fruit,2026-10-25,4000,6
+Jackfruit,jack-fruit,2026-11-01,3750,7
+Jackfruit,jack-fruit,2026-11-08,4250,8
+Jaggery,jaggery,2026-08-23,4575,38
+Jaggery,jaggery,2026-08-30,4795,40
+Jaggery,jaggery,2026-09-06,4695,38
+Jaggery,jaggery,2026-09-13,4792,37
+Jaggery,jaggery,2026-09-20,4702,40
+Jaggery,jaggery,2026-09-27,4600,42
+Jaggery,jaggery,2026-10-04,4600,48
+Jaggery,jaggery,2026-10-11,4676,50
+Jaggery,jaggery,2026-10-18,4800,55
+Jaggery,jaggery,2026-10-25,4650,42
+Jaggery,jaggery,2026-11-01,4778,27
+Jaggery,jaggery,2026-11-08,4625,28
+Jasmine,jasmine,2026-08-23,50000,18
+Jasmine,jasmine,2026-08-30,52500,16
+Jasmine,jasmine,2026-09-06,55000,17
+Jasmine,jasmine,2026-09-13,47500,21
+Jasmine,jasmine,2026-09-20,52500,20
+Jasmine,jasmine,2026-09-27,42500,18
+Jasmine,jasmine,2026-10-04,42500,20
+Jasmine,jasmine,2026-10-11,42500,20
+Jasmine,jasmine,2026-10-18,50000,18
+Jasmine,jasmine,2026-10-25,55000,15
+Jasmine,jasmine,2026-11-01,60000,18
+Jasmine,jasmine,2026-11-08,60000,15
+Jowar,jowar,2026-08-23,3000,96
+Jowar,jowar,2026-08-30,3001,93
+Jowar,jowar,2026-09-06,2801,98
+Jowar,jowar,2026-09-13,3060,88
+Jowar,jowar,2026-09-20,3142,94
+Jowar,jowar,2026-09-27,3300,98
+Jowar,jowar,2026-10-04,3300,104
+Jowar,jowar,2026-10-11,3510,95
+Jowar,jowar,2026-10-18,3700,97
+Jowar,jowar,2026-10-25,3792,70
+Jowar,jowar,2026-11-01,3731,88
+Jowar,jowar,2026-11-08,3750,68
+Jute,jute,2026-08-23,12500,14
+Jute,jute,2026-08-30,12300,13
+Jute,jute,2026-09-06,12300,14
+Jute,jute,2026-09-13,12300,13
+Jute,jute,2026-09-20,11800,14
+Jute,jute,2026-09-27,12300,14
+Jute,jute,2026-10-04,12800,14
+Jute,jute,2026-10-11,13300,13
+Jute,jute,2026-10-18,12400,13
+Jute,jute,2026-10-25,11300,5
+Jute,jute,2026-11-01,14300,13
+Jute,jute,2026-11-08,14000,9
+Kabuli chana,kabuli-chana,2026-08-23,7501,22
+Kabuli chana,kabuli-chana,2026-08-30,7466,24
+Kabuli chana,kabuli-chana,2026-09-06,7410,23
+Kabuli chana,kabuli-chana,2026-09-13,7776,22
+Kabuli chana,kabuli-chana,2026-09-20,7601,25
+Kabuli chana,kabuli-chana,2026-09-27,7910,24
+Kabuli chana,kabuli-chana,2026-10-04,8800,24
+Kabuli chana,kabuli-chana,2026-10-11,9300,26
+Kabuli chana,kabuli-chana,2026-10-18,8700,28
+Kabuli chana,kabuli-chana,2026-10-25,9000,28
+Kabuli chana,kabuli-chana,2026-11-01,8700,28
+Kabuli chana,kabuli-chana,2026-11-08,8376,28
+Kakada (jasmine),kakada,2026-08-23,46250,9
+Kakada (jasmine),kakada,2026-08-30,37500,8
+Kakada (jasmine),kakada,2026-09-06,40000,10
+Kakada (jasmine),kakada,2026-09-13,40000,9
+Kakada (jasmine),kakada,2026-09-20,42500,10
+Kakada (jasmine),kakada,2026-09-27,37500,10
+Kakada (jasmine),kakada,2026-10-04,42500,11
+Kakada (jasmine),kakada,2026-10-11,41500,12
+Kakada (jasmine),kakada,2026-10-18,44000,8
+Kakada (jasmine),kakada,2026-10-25,51250,7
+Kakada (jasmine),kakada,2026-11-01,53000,9
+Kakada (jasmine),kakada,2026-11-08,54500,6
+Kinnow,kinnow,2026-08-23,6850,1
+Kinnow,kinnow,2026-08-30,6500,1
+Kinnow,kinnow,2026-09-06,9000,1
+Kinnow,kinnow,2026-09-13,1905,2
+Kinnow,kinnow,2026-09-20,1900,2
+Kinnow,kinnow,2026-09-27,2050,4
+Kinnow,kinnow,2026-10-04,2250,6
+Kinnow,kinnow,2026-10-11,2250,6
+Kinnow,kinnow,2026-10-18,2200,7
+Kinnow,kinnow,2026-10-25,2250,9
+Kinnow,kinnow,2026-11-01,2500,11
+Kinnow,kinnow,2026-11-08,2650,10
+Knol khol,knol-khol,2026-08-23,4000,94
+Knol khol,knol-khol,2026-08-30,4000,91
+Knol khol,knol-khol,2026-09-06,3750,96
+Knol khol,knol-khol,2026-09-13,3750,102
+Knol khol,knol-khol,2026-09-20,4000,100
+Knol khol,knol-khol,2026-09-27,4000,96
+Knol khol,knol-khol,2026-10-04,4250,103
+Knol khol,knol-khol,2026-10-11,4400,102
+Knol khol,knol-khol,2026-10-18,4750,92
+Knol khol,knol-khol,2026-10-25,5400,86
+Knol khol,knol-khol,2026-11-01,5400,92
+Knol khol,knol-khol,2026-11-08,5650,93
+Kodo millet (Varagu),kodo-millet,2026-08-23,2600,9
+Kodo millet (Varagu),kodo-millet,2026-08-30,2600,9
+Kodo millet (Varagu),kodo-millet,2026-09-06,2640,8
+Kodo millet (Varagu),kodo-millet,2026-09-13,2625,10
+Kodo millet (Varagu),kodo-millet,2026-09-20,2560,9
+Kodo millet (Varagu),kodo-millet,2026-09-27,2500,7
+Kodo millet (Varagu),kodo-millet,2026-10-04,2500,9
+Kodo millet (Varagu),kodo-millet,2026-10-11,2500,9
+Kodo millet (Varagu),kodo-millet,2026-10-18,2500,8
+Kodo millet (Varagu),kodo-millet,2026-10-25,2510,7
+Kodo millet (Varagu),kodo-millet,2026-11-01,2500,11
+Kodo millet (Varagu),kodo-millet,2026-11-08,2215,13
+Ladies finger,ladies-finger-2,2026-08-23,2500,21
+Ladies finger,ladies-finger-2,2026-08-30,2200,20
+Ladies finger,ladies-finger-2,2026-09-06,2400,20
+Ladies finger,ladies-finger-2,2026-09-13,2200,24
+Ladies finger,ladies-finger-2,2026-09-20,2250,21
+Ladies finger,ladies-finger-2,2026-09-27,2200,22
+Ladies finger,ladies-finger-2,2026-10-04,2800,22
+Ladies finger,ladies-finger-2,2026-10-11,2800,21
+Ladies finger,ladies-finger-2,2026-10-18,2800,20
+Ladies finger,ladies-finger-2,2026-10-25,2500,15
+Ladies finger,ladies-finger-2,2026-11-01,3000,21
+Ladies finger,ladies-finger-2,2026-11-08,3330,17
+Ladies finger (bhindi),ladies-finger,2026-08-23,3250,549
+Ladies finger (bhindi),ladies-finger,2026-08-30,3000,510
+Ladies finger (bhindi),ladies-finger,2026-09-06,3000,524
+Ladies finger (bhindi),ladies-finger,2026-09-13,3000,543
+Ladies finger (bhindi),ladies-finger,2026-09-20,3000,545
+Ladies finger (bhindi),ladies-finger,2026-09-27,3250,567
+Ladies finger (bhindi),ladies-finger,2026-10-04,3300,537
+Ladies finger (bhindi),ladies-finger,2026-10-11,3250,545
+Ladies finger (bhindi),ladies-finger,2026-10-18,3000,533
+Ladies finger (bhindi),ladies-finger,2026-10-25,3000,470
+Ladies finger (bhindi),ladies-finger,2026-11-01,3250,502
+Ladies finger (bhindi),ladies-finger,2026-11-08,3250,482
+Lak (Teora),lak,2026-08-23,3100,18
+Lak (Teora),lak,2026-08-30,3150,19
+Lak (Teora),lak,2026-09-06,3192,17
+Lak (Teora),lak,2026-09-13,3260,21
+Lak (Teora),lak,2026-09-20,3250,18
+Lak (Teora),lak,2026-09-27,3400,19
+Lak (Teora),lak,2026-10-04,3400,16
+Lak (Teora),lak,2026-10-11,3555,20
+Lak (Teora),lak,2026-10-18,3550,19
+Lak (Teora),lak,2026-10-25,3416,15
+Lak (Teora),lak,2026-11-01,3408,24
+Lak (Teora),lak,2026-11-08,3350,19
+Leafy vegetables,leafy-vegetables,2026-08-23,3000,12
+Leafy vegetables,leafy-vegetables,2026-08-30,3000,11
+Leafy vegetables,leafy-vegetables,2026-09-06,2500,12
+Leafy vegetables,leafy-vegetables,2026-09-13,2340,12
+Leafy vegetables,leafy-vegetables,2026-09-20,3000,13
+Leafy vegetables,leafy-vegetables,2026-09-27,3000,12
+Leafy vegetables,leafy-vegetables,2026-10-04,3000,13
+Leafy vegetables,leafy-vegetables,2026-10-11,3000,13
+Leafy vegetables,leafy-vegetables,2026-10-18,3000,12
+Leafy vegetables,leafy-vegetables,2026-10-25,3000,12
+Leafy vegetables,leafy-vegetables,2026-11-01,3000,15
+Leafy vegetables,leafy-vegetables,2026-11-08,2300,14
+Lemon,lemon,2026-08-23,7900,273
+Lemon,lemon,2026-08-30,9200,264
+Lemon,lemon,2026-09-06,11000,262
+Lemon,lemon,2026-09-13,12500,270
+Lemon,lemon,2026-09-20,15000,263
+Lemon,lemon,2026-09-27,15500,265
+Lemon,lemon,2026-10-04,15000,273
+Lemon,lemon,2026-10-11,15000,262
+Lemon,lemon,2026-10-18,14600,265
+Lemon,lemon,2026-10-25,15000,223
+Lemon,lemon,2026-11-01,15000,237
+Lemon,lemon,2026-11-08,13500,220
+"Lentil (Masur, whole)",lentil,2026-08-23,6420,59
+"Lentil (Masur, whole)",lentil,2026-08-30,6330,54
+"Lentil (Masur, whole)",lentil,2026-09-06,6520,48
+"Lentil (Masur, whole)",lentil,2026-09-13,6406,55
+"Lentil (Masur, whole)",lentil,2026-09-20,6400,56
+"Lentil (Masur, whole)",lentil,2026-09-27,6375,55
+"Lentil (Masur, whole)",lentil,2026-10-04,6395,51
+"Lentil (Masur, whole)",lentil,2026-10-11,6425,61
+"Lentil (Masur, whole)",lentil,2026-10-18,6213,56
+"Lentil (Masur, whole)",lentil,2026-10-25,6438,48
+"Lentil (Masur, whole)",lentil,2026-11-01,6200,61
+"Lentil (Masur, whole)",lentil,2026-11-08,6000,60
+Lime,lime,2026-08-23,4000,73
+Lime,lime,2026-08-30,4600,70
+Lime,lime,2026-09-06,4750,72
+Lime,lime,2026-09-13,5250,73
+Lime,lime,2026-09-20,5750,71
+Lime,lime,2026-09-27,5600,79
+Lime,lime,2026-10-04,6250,80
+Lime,lime,2026-10-11,5500,81
+Lime,lime,2026-10-18,6000,81
+Lime,lime,2026-10-25,6000,76
+Lime,lime,2026-11-01,5500,81
+Lime,lime,2026-11-08,5500,78
+Linseed,linseed,2026-08-23,9340,18
+Linseed,linseed,2026-08-30,9001,16
+Linseed,linseed,2026-09-06,9073,20
+Linseed,linseed,2026-09-13,9198,17
+Linseed,linseed,2026-09-20,9198,21
+Linseed,linseed,2026-09-27,9090,18
+Linseed,linseed,2026-10-04,9101,25
+Linseed,linseed,2026-10-11,9500,18
+Linseed,linseed,2026-10-18,10025,23
+Linseed,linseed,2026-10-25,10194,16
+Linseed,linseed,2026-11-01,10175,18
+Linseed,linseed,2026-11-08,9943,17
+Liquid jaggery,rab-liquid-jaggery-molasses,2026-10-18,3113,4
+Liquid jaggery,rab-liquid-jaggery-molasses,2026-10-25,3925,8
+Liquid jaggery,rab-liquid-jaggery-molasses,2026-11-08,3660,3
+Little millet (Kutki),kutki,2026-08-23,7750,5
+Little millet (Kutki),kutki,2026-08-30,7261,4
+Little millet (Kutki),kutki,2026-09-06,7500,4
+Little millet (Kutki),kutki,2026-09-13,7500,4
+Little millet (Kutki),kutki,2026-09-20,7100,5
+Little millet (Kutki),kutki,2026-09-27,7200,6
+Little millet (Kutki),kutki,2026-10-04,7228,6
+Little millet (Kutki),kutki,2026-10-11,7150,7
+Little millet (Kutki),kutki,2026-10-18,7650,4
+Little millet (Kutki),kutki,2026-10-25,7220,5
+Little millet (Kutki),kutki,2026-11-01,7213,4
+Little millet (Kutki),kutki,2026-11-08,7425,3
+Long melon (Kakri),long-melon,2026-08-23,1950,8
+Long melon (Kakri),long-melon,2026-08-30,1800,6
+Long melon (Kakri),long-melon,2026-09-06,1800,7
+Long melon (Kakri),long-melon,2026-09-13,1900,8
+Long melon (Kakri),long-melon,2026-09-20,3400,10
+Long melon (Kakri),long-melon,2026-09-27,2700,7
+Long melon (Kakri),long-melon,2026-10-04,2700,8
+Long melon (Kakri),long-melon,2026-10-11,2800,8
+Long melon (Kakri),long-melon,2026-10-18,3700,13
+Long melon (Kakri),long-melon,2026-10-25,2900,7
+Long melon (Kakri),long-melon,2026-11-01,2400,9
+Long melon (Kakri),long-melon,2026-11-08,2800,7
+Mahua flowers,mahua,2026-08-23,3000,5
+Mahua flowers,mahua,2026-08-30,3100,4
+Mahua flowers,mahua,2026-09-06,3000,8
+Mahua flowers,mahua,2026-09-13,3000,5
+Mahua flowers,mahua,2026-09-20,3000,4
+Mahua flowers,mahua,2026-09-27,3100,6
+Mahua flowers,mahua,2026-10-04,3000,10
+Mahua flowers,mahua,2026-10-11,3000,6
+Mahua flowers,mahua,2026-10-18,3000,6
+Mahua flowers,mahua,2026-10-25,3000,3
+Mahua flowers,mahua,2026-11-01,4000,3
+Mahua flowers,mahua,2026-11-08,4000,3
+Maize,maize,2026-08-23,2250,264
+Maize,maize,2026-08-30,2250,264
+Maize,maize,2026-09-06,2300,264
+Maize,maize,2026-09-13,2300,266
+Maize,maize,2026-09-20,2300,264
+Maize,maize,2026-09-27,2300,291
+Maize,maize,2026-10-04,2282,354
+Maize,maize,2026-10-11,2300,342
+Maize,maize,2026-10-18,2309,386
+Maize,maize,2026-10-25,2395,286
+Maize,maize,2026-11-01,2500,367
+Maize,maize,2026-11-08,2595,297
+Makhana (fox nut),makhana,2026-10-18,40899,11
+Makhana (fox nut),makhana,2026-10-25,36400,4
+Makhana (fox nut),makhana,2026-11-08,39623,2
+Mango,mango,2026-08-23,5100,12
+Mango,mango,2026-08-30,5100,12
+Mango,mango,2026-09-06,6750,10
+Mango,mango,2026-09-13,6250,10
+Mango,mango,2026-09-20,6750,9
+Mango,mango,2026-09-27,6750,9
+Mango,mango,2026-10-04,6200,9
+Mango,mango,2026-10-11,5500,7
+Mango,mango,2026-10-18,2975,6
+Mango,mango,2026-10-25,9425,8
+Mango,mango,2026-11-01,4800,7
+Mango,mango,2026-11-08,5550,10
+Mango (raw and ripe),mango-raw-ripe,2026-08-23,6500,104
+Mango (raw and ripe),mango-raw-ripe,2026-08-30,7000,93
+Mango (raw and ripe),mango-raw-ripe,2026-09-06,7500,105
+Mango (raw and ripe),mango-raw-ripe,2026-09-13,8750,99
+Mango (raw and ripe),mango-raw-ripe,2026-09-20,9500,90
+Mango (raw and ripe),mango-raw-ripe,2026-09-27,10000,95
+Mango (raw and ripe),mango-raw-ripe,2026-10-04,10000,106
+Mango (raw and ripe),mango-raw-ripe,2026-10-11,9750,108
+Mango (raw and ripe),mango-raw-ripe,2026-10-18,9500,111
+Mango (raw and ripe),mango-raw-ripe,2026-10-25,9000,108
+Mango (raw and ripe),mango-raw-ripe,2026-11-01,8300,108
+Mango (raw and ripe),mango-raw-ripe,2026-11-08,7000,118
+Marigold,marigold,2026-08-23,20000,29
+Marigold,marigold,2026-08-30,17500,28
+Marigold,marigold,2026-09-06,15500,33
+Marigold,marigold,2026-09-13,19000,33
+Marigold,marigold,2026-09-20,19000,31
+Marigold,marigold,2026-09-27,13900,33
+Marigold,marigold,2026-10-04,12000,33
+Marigold,marigold,2026-10-11,11000,31
+Marigold,marigold,2026-10-18,15000,34
+Marigold,marigold,2026-10-25,17000,26
+Marigold,marigold,2026-11-01,12000,28
+Marigold,marigold,2026-11-08,10000,35
+Masur dal,masur-dal,2026-08-23,9250,38
+Masur dal,masur-dal,2026-08-30,9250,39
+Masur dal,masur-dal,2026-09-06,9700,44
+Masur dal,masur-dal,2026-09-13,9765,39
+Masur dal,masur-dal,2026-09-20,9765,36
+Masur dal,masur-dal,2026-09-27,9765,38
+Masur dal,masur-dal,2026-10-04,9150,46
+Masur dal,masur-dal,2026-10-11,9750,38
+Masur dal,masur-dal,2026-10-18,9765,41
+Masur dal,masur-dal,2026-10-25,10600,15
+Masur dal,masur-dal,2026-11-01,10750,24
+Masur dal,masur-dal,2026-11-08,10750,23
+Mentha oil,mentha-oil,2026-10-18,137500,9
+Mentha oil,mentha-oil,2026-10-25,137033,8
+Mentha oil,mentha-oil,2026-11-08,143000,6
+Methi (fenugreek) seeds,methi-seeds,2026-08-23,6295,28
+Methi (fenugreek) seeds,methi-seeds,2026-08-30,6306,20
+Methi (fenugreek) seeds,methi-seeds,2026-09-06,6300,27
+Methi (fenugreek) seeds,methi-seeds,2026-09-13,6310,24
+Methi (fenugreek) seeds,methi-seeds,2026-09-20,6276,28
+Methi (fenugreek) seeds,methi-seeds,2026-09-27,6290,28
+Methi (fenugreek) seeds,methi-seeds,2026-10-04,6240,33
+Methi (fenugreek) seeds,methi-seeds,2026-10-11,6775,26
+Methi (fenugreek) seeds,methi-seeds,2026-10-18,7332,28
+Methi (fenugreek) seeds,methi-seeds,2026-10-25,7512,22
+Methi (fenugreek) seeds,methi-seeds,2026-11-01,7220,33
+Methi (fenugreek) seeds,methi-seeds,2026-11-08,7152,21
+Methi (leaves),methi,2026-08-23,2200,21
+Methi (leaves),methi,2026-08-30,2500,19
+Methi (leaves),methi,2026-09-06,2500,28
+Methi (leaves),methi,2026-09-13,2375,24
+Methi (leaves),methi,2026-09-20,2750,24
+Methi (leaves),methi,2026-09-27,3250,27
+Methi (leaves),methi,2026-10-04,3500,21
+Methi (leaves),methi,2026-10-11,4000,29
+Methi (leaves),methi,2026-10-18,4250,34
+Methi (leaves),methi,2026-10-25,3875,30
+Methi (leaves),methi,2026-11-01,3000,47
+Methi (leaves),methi,2026-11-08,2500,41
+Millets,millets,2026-08-23,2600,4
+Millets,millets,2026-08-30,2500,4
+Millets,millets,2026-09-06,2427,2
+Millets,millets,2026-09-13,2350,3
+Millets,millets,2026-09-20,2384,2
+Millets,millets,2026-09-27,2453,5
+Millets,millets,2026-10-04,2493,6
+Millets,millets,2026-10-11,2401,3
+Millets,millets,2026-10-18,2175,2
+Millets,millets,2026-10-25,2400,3
+Millets,millets,2026-11-01,2400,5
+Millets,millets,2026-11-08,2375,2
+Mint (Pudina),mint,2026-08-23,4600,167
+Mint (Pudina),mint,2026-08-30,4750,169
+Mint (Pudina),mint,2026-09-06,4750,176
+Mint (Pudina),mint,2026-09-13,4750,179
+Mint (Pudina),mint,2026-09-20,4750,175
+Mint (Pudina),mint,2026-09-27,4750,172
+Mint (Pudina),mint,2026-10-04,4600,177
+Mint (Pudina),mint,2026-10-11,4750,176
+Mint (Pudina),mint,2026-10-18,4750,174
+Mint (Pudina),mint,2026-10-25,4750,166
+Mint (Pudina),mint,2026-11-01,5500,165
+Mint (Pudina),mint,2026-11-08,5750,165
+Mirchi (Dry Red Chilli),mirchi,2026-08-23,20000,32
+Mirchi (Dry Red Chilli),mirchi,2026-08-30,19500,34
+Mirchi (Dry Red Chilli),mirchi,2026-09-06,19600,37
+Mirchi (Dry Red Chilli),mirchi,2026-09-13,20500,33
+Mirchi (Dry Red Chilli),mirchi,2026-09-20,20000,38
+Mirchi (Dry Red Chilli),mirchi,2026-09-27,20000,37
+Mirchi (Dry Red Chilli),mirchi,2026-10-04,20000,46
+Mirchi (Dry Red Chilli),mirchi,2026-10-11,19000,43
+Mirchi (Dry Red Chilli),mirchi,2026-10-18,19500,39
+Mirchi (Dry Red Chilli),mirchi,2026-10-25,20000,26
+Mirchi (Dry Red Chilli),mirchi,2026-11-01,20500,43
+Mirchi (Dry Red Chilli),mirchi,2026-11-08,21550,33
+Mixed dal,dal-mix,2026-10-18,12141,3
+Mixed dal,dal-mix,2026-10-25,9757,3
+Moong dal,moong-dal,2026-08-23,9812,20
+Moong dal,moong-dal,2026-08-30,10815,19
+Moong dal,moong-dal,2026-09-06,9800,26
+Moong dal,moong-dal,2026-09-13,10300,20
+Moong dal,moong-dal,2026-09-20,10340,20
+Moong dal,moong-dal,2026-09-27,10350,21
+Moong dal,moong-dal,2026-10-04,10300,24
+Moong dal,moong-dal,2026-10-11,10300,21
+Moong dal,moong-dal,2026-10-18,10387,21
+Moong dal,moong-dal,2026-10-25,10283,9
+Moong dal,moong-dal,2026-11-01,11000,14
+Moong dal,moong-dal,2026-11-08,11700,11
+Mosambi (sweet lime),mosambi,2026-08-23,4000,125
+Mosambi (sweet lime),mosambi,2026-08-30,3775,124
+Mosambi (sweet lime),mosambi,2026-09-06,3750,136
+Mosambi (sweet lime),mosambi,2026-09-13,3750,142
+Mosambi (sweet lime),mosambi,2026-09-20,3750,145
+Mosambi (sweet lime),mosambi,2026-09-27,3750,138
+Mosambi (sweet lime),mosambi,2026-10-04,3750,141
+Mosambi (sweet lime),mosambi,2026-10-11,3750,141
+Mosambi (sweet lime),mosambi,2026-10-18,3750,140
+Mosambi (sweet lime),mosambi,2026-10-25,4000,117
+Mosambi (sweet lime),mosambi,2026-11-01,3750,130
+Mosambi (sweet lime),mosambi,2026-11-08,4000,112
+Moth beans (Matki),mataki,2026-08-23,7800,2
+Moth beans (Matki),mataki,2026-08-30,7725,2
+Moth beans (Matki),mataki,2026-09-06,9400,2
+Moth beans (Matki),mataki,2026-09-13,9400,3
+Moth beans (Matki),mataki,2026-09-20,10750,4
+Moth beans (Matki),mataki,2026-09-27,9600,3
+Moth beans (Matki),mataki,2026-10-04,9400,3
+Moth beans (Matki),mataki,2026-10-11,9650,2
+Moth beans (Matki),mataki,2026-10-18,9650,3
+Moth beans (Matki),mataki,2026-10-25,9650,4
+Moth beans (Matki),mataki,2026-11-01,8255,5
+Moth beans (Matki),mataki,2026-11-08,7570,3
+Mushroom,mushroom,2026-09-06,22000,43
+Mushroom,mushroom,2026-09-13,22000,40
+Mushroom,mushroom,2026-09-20,22000,41
+Mushroom,mushroom,2026-09-27,22000,40
+Mushroom,mushroom,2026-10-04,22500,41
+Mushroom,mushroom,2026-10-11,22500,41
+Mushroom,mushroom,2026-10-18,22500,40
+Mushroom,mushroom,2026-10-25,22500,39
+Mushroom,mushroom,2026-11-01,22500,42
+Mushroom,mushroom,2026-11-08,22000,39
+Musk melon (Kharbuja),karbuja,2026-08-23,3225,15
+Musk melon (Kharbuja),karbuja,2026-08-30,3200,17
+Musk melon (Kharbuja),karbuja,2026-09-06,3625,17
+Musk melon (Kharbuja),karbuja,2026-09-13,3750,19
+Musk melon (Kharbuja),karbuja,2026-09-20,4500,20
+Musk melon (Kharbuja),karbuja,2026-09-27,4500,18
+Musk melon (Kharbuja),karbuja,2026-10-04,4474,21
+Musk melon (Kharbuja),karbuja,2026-10-11,4000,19
+Musk melon (Kharbuja),karbuja,2026-10-18,4000,22
+Musk melon (Kharbuja),karbuja,2026-10-25,4000,17
+Musk melon (Kharbuja),karbuja,2026-11-01,3824,18
+Musk melon (Kharbuja),karbuja,2026-11-08,3400,19
+Mustard,mustard,2026-08-23,7500,217
+Mustard,mustard,2026-08-30,7466,181
+Mustard,mustard,2026-09-06,7460,197
+Mustard,mustard,2026-09-13,7450,205
+Mustard,mustard,2026-09-20,7464,202
+Mustard,mustard,2026-09-27,7500,193
+Mustard,mustard,2026-10-04,7550,226
+Mustard,mustard,2026-10-11,7776,207
+Mustard,mustard,2026-10-18,7900,189
+Mustard,mustard,2026-10-25,8105,153
+Mustard,mustard,2026-11-01,8250,169
+Mustard,mustard,2026-11-08,8250,115
+Neem seed,neem-seed,2026-08-23,1345,4
+Neem seed,neem-seed,2026-08-30,1250,3
+Neem seed,neem-seed,2026-09-06,1250,2
+Neem seed,neem-seed,2026-09-13,1325,2
+Neem seed,neem-seed,2026-09-20,1278,4
+Neem seed,neem-seed,2026-09-27,1200,2
+Neem seed,neem-seed,2026-10-04,1263,2
+Neem seed,neem-seed,2026-10-11,1112,1
+Neem seed,neem-seed,2026-10-18,1200,3
+Neem seed,neem-seed,2026-10-25,1275,1
+Neem seed,neem-seed,2026-11-01,1742,2
+Neem seed,neem-seed,2026-11-08,1425,3
+Onion,onion,2026-08-23,3500,678
+Onion,onion,2026-08-30,4200,630
+Onion,onion,2026-09-06,4500,651
+Onion,onion,2026-09-13,4750,666
+Onion,onion,2026-09-20,4800,663
+Onion,onion,2026-09-27,4800,658
+Onion,onion,2026-10-04,4700,662
+Onion,onion,2026-10-11,4600,641
+Onion,onion,2026-10-18,4500,640
+Onion,onion,2026-10-25,4750,550
+Onion,onion,2026-11-01,4800,596
+Onion,onion,2026-11-08,5000,516
+Orange,orange,2026-08-23,12000,37
+Orange,orange,2026-08-30,12000,32
+Orange,orange,2026-09-06,12500,34
+Orange,orange,2026-09-13,12000,40
+Orange,orange,2026-09-20,10500,44
+Orange,orange,2026-09-27,9000,55
+Orange,orange,2026-10-04,8500,58
+Orange,orange,2026-10-11,7750,66
+Orange,orange,2026-10-18,7500,75
+Orange,orange,2026-10-25,7000,67
+Orange,orange,2026-11-01,7000,78
+Orange,orange,2026-11-08,7000,78
+Paddy (Basmati),paddy-basmati,2026-08-23,3500,6
+Paddy (Basmati),paddy-basmati,2026-08-30,3605,5
+Paddy (Basmati),paddy-basmati,2026-09-06,3650,20
+Paddy (Basmati),paddy-basmati,2026-09-13,3615,38
+Paddy (Basmati),paddy-basmati,2026-09-20,3647,64
+Paddy (Basmati),paddy-basmati,2026-09-27,3660,81
+Paddy (Basmati),paddy-basmati,2026-10-04,3760,85
+Paddy (Basmati),paddy-basmati,2026-10-11,3609,88
+Paddy (Basmati),paddy-basmati,2026-10-18,3502,87
+Paddy (Basmati),paddy-basmati,2026-10-25,3797,86
+Paddy (Basmati),paddy-basmati,2026-11-01,4350,34
+Paddy (Basmati),paddy-basmati,2026-11-08,4058,51
+Paddy (Dhan),paddy,2026-08-23,2372,298
+Paddy (Dhan),paddy,2026-08-30,2372,302
+Paddy (Dhan),paddy,2026-09-06,2372,329
+Paddy (Dhan),paddy,2026-09-13,2379,326
+Paddy (Dhan),paddy,2026-09-20,2400,366
+Paddy (Dhan),paddy,2026-09-27,2410,383
+Paddy (Dhan),paddy,2026-10-04,2441,431
+Paddy (Dhan),paddy,2026-10-11,2461,529
+Paddy (Dhan),paddy,2026-10-18,2461,512
+Paddy (Dhan),paddy,2026-10-25,2461,409
+Paddy (Dhan),paddy,2026-11-01,2461,461
+Paddy (Dhan),paddy,2026-11-08,2461,359
+Paddy (Fine/Superfine/Grade A),paddy-fine-superfine-grade-a,2026-11-01,2461,59
+Paddy (Fine/Superfine/Grade A),paddy-fine-superfine-grade-a,2026-11-08,2461,72
+Papaya,papaya,2026-08-23,3250,225
+Papaya,papaya,2026-08-30,3400,220
+Papaya,papaya,2026-09-06,3500,231
+Papaya,papaya,2026-09-13,3500,234
+Papaya,papaya,2026-09-20,3500,234
+Papaya,papaya,2026-09-27,3500,232
+Papaya,papaya,2026-10-04,3600,235
+Papaya,papaya,2026-10-11,3500,231
+Papaya,papaya,2026-10-18,3750,234
+Papaya,papaya,2026-10-25,3750,215
+Papaya,papaya,2026-11-01,3650,224
+Papaya,papaya,2026-11-08,3750,207
+Papaya (raw),papaya-raw,2026-08-23,2100,20
+Papaya (raw),papaya-raw,2026-08-30,2100,18
+Papaya (raw),papaya-raw,2026-09-06,2100,21
+Papaya (raw),papaya-raw,2026-09-13,2000,20
+Papaya (raw),papaya-raw,2026-09-20,2000,24
+Papaya (raw),papaya-raw,2026-09-27,1950,22
+Papaya (raw),papaya-raw,2026-10-04,1800,23
+Papaya (raw),papaya-raw,2026-10-11,2000,23
+Papaya (raw),papaya-raw,2026-10-18,1800,21
+Papaya (raw),papaya-raw,2026-10-25,1600,16
+Papaya (raw),papaya-raw,2026-11-01,1800,19
+Papaya (raw),papaya-raw,2026-11-08,1600,20
+Pea pods,pea-pod-pea-cod,2026-08-23,8000,15
+Pea pods,pea-pod-pea-cod,2026-08-30,8000,17
+Pea pods,pea-pod-pea-cod,2026-09-06,9000,15
+Pea pods,pea-pod-pea-cod,2026-09-13,9000,16
+Pea pods,pea-pod-pea-cod,2026-09-20,9500,12
+Pea pods,pea-pod-pea-cod,2026-09-27,10000,17
+Pea pods,pea-pod-pea-cod,2026-10-04,8500,13
+Pea pods,pea-pod-pea-cod,2026-10-11,9000,15
+Pea pods,pea-pod-pea-cod,2026-10-18,9500,15
+Pea pods,pea-pod-pea-cod,2026-10-25,9000,17
+Pea pods,pea-pod-pea-cod,2026-11-01,9000,19
+Pea pods,pea-pod-pea-cod,2026-11-08,10000,19
+Pear,pear,2026-08-23,7500,23
+Pear,pear,2026-08-30,7500,21
+Pear,pear,2026-09-06,7000,18
+Pear,pear,2026-09-13,7500,18
+Pear,pear,2026-09-20,7500,19
+Pear,pear,2026-09-27,7100,19
+Pear,pear,2026-10-04,7375,15
+Pear,pear,2026-10-11,6625,9
+Pear,pear,2026-10-18,7000,9
+Pear,pear,2026-10-25,10000,5
+Pear,pear,2026-11-01,8000,4
+Pear,pear,2026-11-08,12250,4
+Peas (dry),peas,2026-08-23,3687,16
+Peas (dry),peas,2026-08-30,3902,18
+Peas (dry),peas,2026-09-06,3960,19
+Peas (dry),peas,2026-09-13,3758,15
+Peas (dry),peas,2026-09-20,3980,20
+Peas (dry),peas,2026-09-27,3948,17
+Peas (dry),peas,2026-10-04,3900,22
+Peas (dry),peas,2026-10-11,3786,16
+Peas (dry),peas,2026-10-18,3692,19
+Peas (dry),peas,2026-10-25,3879,14
+Peas (dry),peas,2026-11-01,6225,2
+Peas (dry),peas,2026-11-08,4077,6
+Peas (fresh),peas-wet,2026-08-23,8000,40
+Peas (fresh),peas-wet,2026-08-30,7500,39
+Peas (fresh),peas-wet,2026-09-06,8000,39
+Peas (fresh),peas-wet,2026-09-13,8000,40
+Peas (fresh),peas-wet,2026-09-20,8450,36
+Peas (fresh),peas-wet,2026-09-27,9000,34
+Peas (fresh),peas-wet,2026-10-04,10000,35
+Peas (fresh),peas-wet,2026-10-11,10000,41
+Peas (fresh),peas-wet,2026-10-18,9250,45
+Peas (fresh),peas-wet,2026-10-25,9000,41
+Peas (fresh),peas-wet,2026-11-01,9000,49
+Peas (fresh),peas-wet,2026-11-08,8750,39
+Persimmon,persimon,2026-09-06,6600,3
+Persimmon,persimon,2026-09-13,7500,8
+Persimmon,persimon,2026-09-20,7000,9
+Persimmon,persimon,2026-09-27,8500,11
+Persimmon,persimon,2026-10-04,7500,11
+Persimmon,persimon,2026-10-11,9000,12
+Persimmon,persimon,2026-10-18,9500,15
+Persimmon,persimon,2026-10-25,9000,13
+Persimmon,persimon,2026-11-01,10000,12
+Persimmon,persimon,2026-11-08,10000,12
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-08-23,10500,15
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-08-30,10016,17
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-09-06,9481,23
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-09-13,9707,18
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-09-20,10571,15
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-09-27,10429,16
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-10-04,9922,23
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-10-11,10500,16
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-10-18,11500,18
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-10-25,9000,11
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-11-01,6275,5
+Pigeon pea pods (Arhar fali),pegeon-pea,2026-11-08,7750,6
+Pineapple,pineapple,2026-08-23,5000,78
+Pineapple,pineapple,2026-08-30,5000,68
+Pineapple,pineapple,2026-09-06,5000,81
+Pineapple,pineapple,2026-09-13,5000,86
+Pineapple,pineapple,2026-09-20,5100,85
+Pineapple,pineapple,2026-09-27,5000,83
+Pineapple,pineapple,2026-10-04,5000,81
+Pineapple,pineapple,2026-10-11,5000,89
+Pineapple,pineapple,2026-10-18,5400,82
+Pineapple,pineapple,2026-10-25,5500,66
+Pineapple,pineapple,2026-11-01,5050,67
+Pineapple,pineapple,2026-11-08,5000,62
+Pointed gourd (Parval),pointed-gourd,2026-08-23,3600,74
+Pointed gourd (Parval),pointed-gourd,2026-08-30,3575,65
+Pointed gourd (Parval),pointed-gourd,2026-09-06,3500,67
+Pointed gourd (Parval),pointed-gourd,2026-09-13,3500,78
+Pointed gourd (Parval),pointed-gourd,2026-09-20,3600,68
+Pointed gourd (Parval),pointed-gourd,2026-09-27,3600,71
+Pointed gourd (Parval),pointed-gourd,2026-10-04,3600,76
+Pointed gourd (Parval),pointed-gourd,2026-10-11,3850,67
+Pointed gourd (Parval),pointed-gourd,2026-10-18,3750,65
+Pointed gourd (Parval),pointed-gourd,2026-10-25,3750,49
+Pointed gourd (Parval),pointed-gourd,2026-11-01,3500,65
+Pointed gourd (Parval),pointed-gourd,2026-11-08,3250,54
+Pomegranate,pomegranate,2026-08-23,9800,134
+Pomegranate,pomegranate,2026-08-30,9500,143
+Pomegranate,pomegranate,2026-09-06,9600,143
+Pomegranate,pomegranate,2026-09-13,9500,149
+Pomegranate,pomegranate,2026-09-20,10000,153
+Pomegranate,pomegranate,2026-09-27,10500,148
+Pomegranate,pomegranate,2026-10-04,11500,144
+Pomegranate,pomegranate,2026-10-11,12000,146
+Pomegranate,pomegranate,2026-10-18,12890,138
+Pomegranate,pomegranate,2026-10-25,14000,116
+Pomegranate,pomegranate,2026-11-01,14000,122
+Pomegranate,pomegranate,2026-11-08,14000,123
+Potato,potato,2026-08-23,1100,659
+Potato,potato,2026-08-30,1150,640
+Potato,potato,2026-09-06,1200,627
+Potato,potato,2026-09-13,1100,675
+Potato,potato,2026-09-20,1100,678
+Potato,potato,2026-09-27,1100,666
+Potato,potato,2026-10-04,1100,671
+Potato,potato,2026-10-11,1100,651
+Potato,potato,2026-10-18,1200,656
+Potato,potato,2026-10-25,1400,509
+Potato,potato,2026-11-01,1500,539
+Potato,potato,2026-11-08,1500,517
+Pumpkin,pumpkin,2026-08-23,1900,383
+Pumpkin,pumpkin,2026-08-30,1900,375
+Pumpkin,pumpkin,2026-09-06,1850,376
+Pumpkin,pumpkin,2026-09-13,1800,397
+Pumpkin,pumpkin,2026-09-20,1800,392
+Pumpkin,pumpkin,2026-09-27,1800,389
+Pumpkin,pumpkin,2026-10-04,1800,383
+Pumpkin,pumpkin,2026-10-11,1800,389
+Pumpkin,pumpkin,2026-10-18,1800,375
+Pumpkin,pumpkin,2026-10-25,1900,314
+Pumpkin,pumpkin,2026-11-01,1800,361
+Pumpkin,pumpkin,2026-11-08,1850,322
+Radish,radish,2026-08-23,2800,258
+Radish,radish,2026-08-30,2750,253
+Radish,radish,2026-09-06,2600,273
+Radish,radish,2026-09-13,2650,293
+Radish,radish,2026-09-20,2675,278
+Radish,radish,2026-09-27,2650,294
+Radish,radish,2026-10-04,2750,292
+Radish,radish,2026-10-11,2800,299
+Radish,radish,2026-10-18,3250,293
+Radish,radish,2026-10-25,3250,285
+Radish,radish,2026-11-01,3250,313
+Radish,radish,2026-11-08,3500,303
+Ragi,ragi,2026-08-23,3465,25
+Ragi,ragi,2026-08-30,3400,26
+Ragi,ragi,2026-09-06,3500,33
+Ragi,ragi,2026-09-13,3605,34
+Ragi,ragi,2026-09-20,3562,33
+Ragi,ragi,2026-09-27,3632,28
+Ragi,ragi,2026-10-04,3500,32
+Ragi,ragi,2026-10-11,3554,30
+Ragi,ragi,2026-10-18,3569,22
+Ragi,ragi,2026-10-25,3650,11
+Ragi,ragi,2026-11-01,3500,24
+Ragi,ragi,2026-11-08,3662,15
+Rambans (Agave /Century plant),rambans,2026-10-18,500,4
+Rambans (Agave /Century plant),rambans,2026-10-25,325,3
+Rambans (Agave /Century plant),rambans,2026-11-08,500,1
+Raw banana,raw-banana,2026-08-23,3250,269
+Raw banana,raw-banana,2026-08-30,3150,263
+Raw banana,raw-banana,2026-09-06,3250,275
+Raw banana,raw-banana,2026-09-13,3250,285
+Raw banana,raw-banana,2026-09-20,3250,282
+Raw banana,raw-banana,2026-09-27,3300,281
+Raw banana,raw-banana,2026-10-04,3250,275
+Raw banana,raw-banana,2026-10-11,3300,281
+Raw banana,raw-banana,2026-10-18,3250,275
+Raw banana,raw-banana,2026-10-25,3250,249
+Raw banana,raw-banana,2026-11-01,3250,264
+Raw banana,raw-banana,2026-11-08,3250,260
+Red Gram (Tur),red-gram,2026-08-23,7500,129
+Red Gram (Tur),red-gram,2026-08-30,7600,112
+Red Gram (Tur),red-gram,2026-09-06,7700,104
+Red Gram (Tur),red-gram,2026-09-13,7622,92
+Red Gram (Tur),red-gram,2026-09-20,7800,84
+Red Gram (Tur),red-gram,2026-09-27,8250,93
+Red Gram (Tur),red-gram,2026-10-04,8300,97
+Red Gram (Tur),red-gram,2026-10-11,8888,93
+Red Gram (Tur),red-gram,2026-10-18,9000,79
+Red Gram (Tur),red-gram,2026-10-25,8700,62
+Red Gram (Tur),red-gram,2026-11-01,8700,66
+Red Gram (Tur),red-gram,2026-11-08,8500,60
+Rice,rice,2026-08-23,3500,146
+Rice,rice,2026-08-30,3500,144
+Rice,rice,2026-09-06,3514,157
+Rice,rice,2026-09-13,3600,129
+Rice,rice,2026-09-20,3400,145
+Rice,rice,2026-09-27,3500,150
+Rice,rice,2026-10-04,3490,158
+Rice,rice,2026-10-11,3630,135
+Rice,rice,2026-10-18,3600,132
+Rice,rice,2026-10-25,3800,81
+Rice,rice,2026-11-01,4000,99
+Rice,rice,2026-11-08,3800,57
+Rice (Fine/Superfine/Grade A),rice-fine-superfine-grade-a,2026-11-01,4000,16
+Rice (Fine/Superfine/Grade A),rice-fine-superfine-grade-a,2026-11-08,4050,24
+Ridge gourd,ridge-gourd,2026-08-23,4250,286
+Ridge gourd,ridge-gourd,2026-08-30,4000,290
+Ridge gourd,ridge-gourd,2026-09-06,3975,292
+Ridge gourd,ridge-gourd,2026-09-13,4000,305
+Ridge gourd,ridge-gourd,2026-09-20,3850,304
+Ridge gourd,ridge-gourd,2026-09-27,4000,308
+Ridge gourd,ridge-gourd,2026-10-04,4000,301
+Ridge gourd,ridge-gourd,2026-10-11,4000,288
+Ridge gourd,ridge-gourd,2026-10-18,4250,282
+Ridge gourd,ridge-gourd,2026-10-25,4250,244
+Ridge gourd,ridge-gourd,2026-11-01,4500,261
+Ridge gourd,ridge-gourd,2026-11-08,4600,234
+Rose (loose),rose,2026-08-23,17500,29
+Rose (loose),rose,2026-08-30,15500,30
+Rose (loose),rose,2026-09-06,14000,33
+Rose (loose),rose,2026-09-13,14750,34
+Rose (loose),rose,2026-09-20,17000,31
+Rose (loose),rose,2026-09-27,13000,29
+Rose (loose),rose,2026-10-04,11500,33
+Rose (loose),rose,2026-10-11,13750,33
+Rose (loose),rose,2026-10-18,15000,33
+Rose (loose),rose,2026-10-25,15000,30
+Rose (loose),rose,2026-11-01,13000,30
+Rose (loose),rose,2026-11-08,12000,31
+Round gourd (Tinda),round-gourd,2026-08-23,1500,13
+Round gourd (Tinda),round-gourd,2026-08-30,1500,11
+Round gourd (Tinda),round-gourd,2026-09-06,1100,10
+Round gourd (Tinda),round-gourd,2026-09-13,1200,11
+Round gourd (Tinda),round-gourd,2026-09-20,1250,9
+Round gourd (Tinda),round-gourd,2026-09-27,1000,9
+Round gourd (Tinda),round-gourd,2026-10-04,1500,10
+Round gourd (Tinda),round-gourd,2026-10-11,1750,10
+Round gourd (Tinda),round-gourd,2026-10-18,1500,11
+Round gourd (Tinda),round-gourd,2026-10-25,1500,6
+Round gourd (Tinda),round-gourd,2026-11-01,1900,6
+Round gourd (Tinda),round-gourd,2026-11-08,1750,7
+Safflower,safflower,2026-08-23,5148,9
+Safflower,safflower,2026-08-30,5131,9
+Safflower,safflower,2026-09-06,5163,9
+Safflower,safflower,2026-09-13,5002,9
+Safflower,safflower,2026-09-20,5002,9
+Safflower,safflower,2026-09-27,5000,9
+Safflower,safflower,2026-10-04,5089,11
+Safflower,safflower,2026-10-11,5182,13
+Safflower,safflower,2026-10-18,5500,12
+Safflower,safflower,2026-10-25,5988,11
+Safflower,safflower,2026-11-01,6101,13
+Safflower,safflower,2026-11-08,6055,8
+Sapota (Chikoo),chikoos,2026-08-23,4500,55
+Sapota (Chikoo),chikoos,2026-08-30,4500,54
+Sapota (Chikoo),chikoos,2026-09-06,4500,52
+Sapota (Chikoo),chikoos,2026-09-13,4500,56
+Sapota (Chikoo),chikoos,2026-09-20,4500,54
+Sapota (Chikoo),chikoos,2026-09-27,4750,56
+Sapota (Chikoo),chikoos,2026-10-04,4750,58
+Sapota (Chikoo),chikoos,2026-10-11,4750,60
+Sapota (Chikoo),chikoos,2026-10-18,5000,54
+Sapota (Chikoo),chikoos,2026-10-25,5000,51
+Sapota (Chikoo),chikoos,2026-11-01,4775,69
+Sapota (Chikoo),chikoos,2026-11-08,4750,68
+Sesame (Til),sesame,2026-08-23,11000,50
+Sesame (Til),sesame,2026-08-30,10800,53
+Sesame (Til),sesame,2026-09-06,10838,33
+Sesame (Til),sesame,2026-09-13,11000,47
+Sesame (Til),sesame,2026-09-20,11215,46
+Sesame (Til),sesame,2026-09-27,11150,51
+Sesame (Til),sesame,2026-10-04,11310,64
+Sesame (Til),sesame,2026-10-11,12000,64
+Sesame (Til),sesame,2026-10-18,13980,89
+Sesame (Til),sesame,2026-10-25,14400,67
+Sesame (Til),sesame,2026-11-01,14230,85
+Sesame (Til),sesame,2026-11-08,14225,76
+Snake gourd,snake-gourd,2026-08-23,3750,251
+Snake gourd,snake-gourd,2026-08-30,3750,221
+Snake gourd,snake-gourd,2026-09-06,3600,248
+Snake gourd,snake-gourd,2026-09-13,3400,258
+Snake gourd,snake-gourd,2026-09-20,3400,259
+Snake gourd,snake-gourd,2026-09-27,3600,259
+Snake gourd,snake-gourd,2026-10-04,3750,249
+Snake gourd,snake-gourd,2026-10-11,3800,255
+Snake gourd,snake-gourd,2026-10-18,3900,245
+Snake gourd,snake-gourd,2026-10-25,3700,222
+Snake gourd,snake-gourd,2026-11-01,3650,227
+Snake gourd,snake-gourd,2026-11-08,3750,227
+Soyabean,soyabean,2026-08-23,6270,228
+Soyabean,soyabean,2026-08-30,5803,199
+Soyabean,soyabean,2026-09-06,5760,188
+Soyabean,soyabean,2026-09-13,5736,204
+Soyabean,soyabean,2026-09-20,5700,201
+Soyabean,soyabean,2026-09-27,5480,214
+Soyabean,soyabean,2026-10-04,5550,267
+Soyabean,soyabean,2026-10-11,6100,340
+Soyabean,soyabean,2026-10-18,6651,360
+Soyabean,soyabean,2026-10-25,6860,297
+Soyabean,soyabean,2026-11-01,6830,380
+Soyabean,soyabean,2026-11-08,6800,330
+Spinach,spinach,2026-08-23,1800,66
+Spinach,spinach,2026-08-30,1800,61
+Spinach,spinach,2026-09-06,1750,63
+Spinach,spinach,2026-09-13,1800,62
+Spinach,spinach,2026-09-20,2000,72
+Spinach,spinach,2026-09-27,2200,68
+Spinach,spinach,2026-10-04,2000,64
+Spinach,spinach,2026-10-11,2000,68
+Spinach,spinach,2026-10-18,2000,80
+Spinach,spinach,2026-10-25,1750,64
+Spinach,spinach,2026-11-01,1500,83
+Spinach,spinach,2026-11-08,1350,76
+Spine gourd (Kantola),spiny-gourd-kartali,2026-08-23,5900,12
+Spine gourd (Kantola),spiny-gourd-kartali,2026-08-30,5500,10
+Spine gourd (Kantola),spiny-gourd-kartali,2026-09-06,5900,13
+Spine gourd (Kantola),spiny-gourd-kartali,2026-09-13,5300,10
+Spine gourd (Kantola),spiny-gourd-kartali,2026-09-20,5300,11
+Spine gourd (Kantola),spiny-gourd-kartali,2026-09-27,6000,9
+Spine gourd (Kantola),spiny-gourd-kartali,2026-10-04,6500,8
+Spine gourd (Kantola),spiny-gourd-kartali,2026-10-11,6000,8
+Spine gourd (Kantola),spiny-gourd-kartali,2026-10-18,5500,6
+Spine gourd (Kantola),spiny-gourd-kartali,2026-10-25,6000,5
+Spine gourd (Kantola),spiny-gourd-kartali,2026-11-01,5000,7
+Spine gourd (Kantola),spiny-gourd-kartali,2026-11-08,4500,3
+Sponge gourd,sponge-gourd,2026-08-23,1800,53
+Sponge gourd,sponge-gourd,2026-08-30,1668,48
+Sponge gourd,sponge-gourd,2026-09-06,1750,59
+Sponge gourd,sponge-gourd,2026-09-13,1750,53
+Sponge gourd,sponge-gourd,2026-09-20,1800,52
+Sponge gourd,sponge-gourd,2026-09-27,1800,49
+Sponge gourd,sponge-gourd,2026-10-04,2000,46
+Sponge gourd,sponge-gourd,2026-10-11,2100,42
+Sponge gourd,sponge-gourd,2026-10-18,2200,40
+Sponge gourd,sponge-gourd,2026-10-25,2500,28
+Sponge gourd,sponge-gourd,2026-11-01,2200,40
+Sponge gourd,sponge-gourd,2026-11-08,2200,22
+Spring onion,spring-onion,2026-08-23,6750,186
+Spring onion,spring-onion,2026-08-30,7150,181
+Spring onion,spring-onion,2026-09-06,7500,190
+Spring onion,spring-onion,2026-09-13,7500,190
+Spring onion,spring-onion,2026-09-20,8000,190
+Spring onion,spring-onion,2026-09-27,8500,188
+Spring onion,spring-onion,2026-10-04,8250,190
+Spring onion,spring-onion,2026-10-11,8000,192
+Spring onion,spring-onion,2026-10-18,8200,195
+Spring onion,spring-onion,2026-10-25,8500,183
+Spring onion,spring-onion,2026-11-01,9500,184
+Spring onion,spring-onion,2026-11-08,10000,184
+Squash (Chappal kaddu),squash,2026-08-23,1750,19
+Squash (Chappal kaddu),squash,2026-08-30,1700,17
+Squash (Chappal kaddu),squash,2026-09-06,1550,17
+Squash (Chappal kaddu),squash,2026-09-13,1500,17
+Squash (Chappal kaddu),squash,2026-09-20,1400,19
+Squash (Chappal kaddu),squash,2026-09-27,1300,17
+Squash (Chappal kaddu),squash,2026-10-04,1300,16
+Squash (Chappal kaddu),squash,2026-10-11,1300,18
+Squash (Chappal kaddu),squash,2026-10-18,1375,17
+Squash (Chappal kaddu),squash,2026-10-25,1400,16
+Squash (Chappal kaddu),squash,2026-11-01,1500,20
+Squash (Chappal kaddu),squash,2026-11-08,1400,17
+Sunflower seed,sunflower,2026-08-23,8025,13
+Sunflower seed,sunflower,2026-08-30,7887,14
+Sunflower seed,sunflower,2026-09-06,7782,14
+Sunflower seed,sunflower,2026-09-13,7478,19
+Sunflower seed,sunflower,2026-09-20,7408,20
+Sunflower seed,sunflower,2026-09-27,7200,19
+Sunflower seed,sunflower,2026-10-04,7154,18
+Sunflower seed,sunflower,2026-10-11,7295,17
+Sunflower seed,sunflower,2026-10-18,7725,11
+Sunflower seed,sunflower,2026-10-25,7990,13
+Sunflower seed,sunflower,2026-11-01,7694,17
+Sunflower seed,sunflower,2026-11-08,7700,11
+Suva (Dill Seed),suva,2026-08-23,8600,4
+Suva (Dill Seed),suva,2026-08-30,8500,3
+Suva (Dill Seed),suva,2026-09-06,8550,5
+Suva (Dill Seed),suva,2026-09-13,8500,4
+Suva (Dill Seed),suva,2026-09-20,8750,5
+Suva (Dill Seed),suva,2026-09-27,8938,6
+Suva (Dill Seed),suva,2026-10-04,8800,6
+Suva (Dill Seed),suva,2026-10-11,9255,7
+Suva (Dill Seed),suva,2026-10-18,9875,6
+Suva (Dill Seed),suva,2026-10-25,10450,5
+Suva (Dill Seed),suva,2026-11-01,9975,7
+Suva (Dill Seed),suva,2026-11-08,10038,6
+Sweet Saag,sweet-saag,2026-10-18,17601,10
+Sweet Saag,sweet-saag,2026-10-25,17000,6
+Sweet Saag,sweet-saag,2026-11-08,22061,1
+Sweet corn,sweet-corn,2026-10-18,3750,49
+Sweet corn,sweet-corn,2026-10-25,3500,48
+Sweet corn,sweet-corn,2026-11-01,3750,49
+Sweet corn,sweet-corn,2026-11-08,3500,47
+Sweet potato,sweet-potato,2026-08-23,4500,85
+Sweet potato,sweet-potato,2026-08-30,4500,82
+Sweet potato,sweet-potato,2026-09-06,4750,92
+Sweet potato,sweet-potato,2026-09-13,4750,95
+Sweet potato,sweet-potato,2026-09-20,5000,91
+Sweet potato,sweet-potato,2026-09-27,5000,95
+Sweet potato,sweet-potato,2026-10-04,4800,105
+Sweet potato,sweet-potato,2026-10-11,4750,113
+Sweet potato,sweet-potato,2026-10-18,4750,119
+Sweet potato,sweet-potato,2026-10-25,4750,108
+Sweet potato,sweet-potato,2026-11-01,4750,108
+Sweet potato,sweet-potato,2026-11-08,4750,113
+Sweet pumpkin,sweet-pumpkin,2026-08-23,2000,36
+Sweet pumpkin,sweet-pumpkin,2026-08-30,1900,34
+Sweet pumpkin,sweet-pumpkin,2026-09-06,1800,38
+Sweet pumpkin,sweet-pumpkin,2026-09-13,1800,37
+Sweet pumpkin,sweet-pumpkin,2026-09-20,1800,33
+Sweet pumpkin,sweet-pumpkin,2026-09-27,1800,33
+Sweet pumpkin,sweet-pumpkin,2026-10-04,1800,32
+Sweet pumpkin,sweet-pumpkin,2026-10-11,1900,37
+Sweet pumpkin,sweet-pumpkin,2026-10-18,1950,36
+Sweet pumpkin,sweet-pumpkin,2026-10-25,1725,20
+Sweet pumpkin,sweet-pumpkin,2026-11-01,1700,34
+Sweet pumpkin,sweet-pumpkin,2026-11-08,1800,32
+Tamarind,tamarind,2026-08-23,13000,31
+Tamarind,tamarind,2026-08-30,12625,31
+Tamarind,tamarind,2026-09-06,13500,32
+Tamarind,tamarind,2026-09-13,13500,33
+Tamarind,tamarind,2026-09-20,13500,31
+Tamarind,tamarind,2026-09-27,13500,35
+Tamarind,tamarind,2026-10-04,13500,34
+Tamarind,tamarind,2026-10-11,14000,32
+Tamarind,tamarind,2026-10-18,14000,33
+Tamarind,tamarind,2026-10-25,14000,33
+Tamarind,tamarind,2026-11-01,14000,29
+Tamarind,tamarind,2026-11-08,14000,32
+Tapioca,tapioca,2026-08-23,3300,112
+Tapioca,tapioca,2026-08-30,3250,104
+Tapioca,tapioca,2026-09-06,3300,118
+Tapioca,tapioca,2026-09-13,3350,124
+Tapioca,tapioca,2026-09-20,3350,133
+Tapioca,tapioca,2026-09-27,3350,135
+Tapioca,tapioca,2026-10-04,3400,122
+Tapioca,tapioca,2026-10-11,3400,128
+Tapioca,tapioca,2026-10-18,3250,134
+Tapioca,tapioca,2026-10-25,3350,110
+Tapioca,tapioca,2026-11-01,3400,123
+Tapioca,tapioca,2026-11-08,3500,114
+Taramira (rocket seed),taramira,2026-08-23,5980,5
+Taramira (rocket seed),taramira,2026-08-30,5900,3
+Taramira (rocket seed),taramira,2026-09-06,5910,7
+Taramira (rocket seed),taramira,2026-09-13,5900,3
+Taramira (rocket seed),taramira,2026-09-20,5846,3
+Taramira (rocket seed),taramira,2026-09-27,6025,4
+Taramira (rocket seed),taramira,2026-10-04,6296,3
+Taramira (rocket seed),taramira,2026-10-11,6690,2
+Taramira (rocket seed),taramira,2026-10-18,7081,4
+Taramira (rocket seed),taramira,2026-10-25,7000,3
+Taramira (rocket seed),taramira,2026-11-01,6936,3
+Taramira (rocket seed),taramira,2026-11-08,6500,3
+Tender coconut,tender-coconut,2026-08-23,3500,86
+Tender coconut,tender-coconut,2026-08-30,3500,87
+Tender coconut,tender-coconut,2026-09-06,3500,92
+Tender coconut,tender-coconut,2026-09-13,3500,94
+Tender coconut,tender-coconut,2026-09-20,3500,95
+Tender coconut,tender-coconut,2026-09-27,3500,97
+Tender coconut,tender-coconut,2026-10-04,3750,95
+Tender coconut,tender-coconut,2026-10-11,3750,95
+Tender coconut,tender-coconut,2026-10-18,3500,98
+Tender coconut,tender-coconut,2026-10-25,3500,84
+Tender coconut,tender-coconut,2026-11-01,3500,87
+Tender coconut,tender-coconut,2026-11-08,3500,85
+Tinda,tinda,2026-08-23,2775,32
+Tinda,tinda,2026-08-30,2500,30
+Tinda,tinda,2026-09-06,2750,25
+Tinda,tinda,2026-09-13,2500,24
+Tinda,tinda,2026-09-20,2750,21
+Tinda,tinda,2026-09-27,2750,21
+Tinda,tinda,2026-10-04,3750,26
+Tinda,tinda,2026-10-11,3750,24
+Tinda,tinda,2026-10-18,3500,26
+Tinda,tinda,2026-10-25,3500,21
+Tinda,tinda,2026-11-01,3250,28
+Tinda,tinda,2026-11-08,3200,20
+Tobacco,tobacco,2026-08-23,2680,9
+Tobacco,tobacco,2026-08-30,3214,9
+Tobacco,tobacco,2026-09-06,3151,13
+Tobacco,tobacco,2026-09-13,3300,9
+Tobacco,tobacco,2026-09-20,3669,10
+Tobacco,tobacco,2026-09-27,2221,9
+Tobacco,tobacco,2026-10-04,3516,14
+Tobacco,tobacco,2026-10-11,2863,8
+Tobacco,tobacco,2026-10-18,2961,9
+Tobacco,tobacco,2026-10-25,3797,7
+Tobacco,tobacco,2026-11-08,3600,5
+Tomato,tomato,2026-08-23,2150,649
+Tomato,tomato,2026-08-30,2000,635
+Tomato,tomato,2026-09-06,2420,634
+Tomato,tomato,2026-09-13,2500,655
+Tomato,tomato,2026-09-20,2450,645
+Tomato,tomato,2026-09-27,2500,675
+Tomato,tomato,2026-10-04,2800,661
+Tomato,tomato,2026-10-11,2900,654
+Tomato,tomato,2026-10-18,2600,657
+Tomato,tomato,2026-10-25,2800,479
+Tomato,tomato,2026-11-01,2900,586
+Tomato,tomato,2026-11-08,2750,551
+Tondekai (ivy gourd),tondekai,2026-08-23,4500,99
+Tondekai (ivy gourd),tondekai,2026-08-30,4000,105
+Tondekai (ivy gourd),tondekai,2026-09-06,3750,107
+Tondekai (ivy gourd),tondekai,2026-09-13,3800,111
+Tondekai (ivy gourd),tondekai,2026-09-20,4000,116
+Tondekai (ivy gourd),tondekai,2026-09-27,4400,116
+Tondekai (ivy gourd),tondekai,2026-10-04,4750,116
+Tondekai (ivy gourd),tondekai,2026-10-11,4350,112
+Tondekai (ivy gourd),tondekai,2026-10-18,4250,98
+Tondekai (ivy gourd),tondekai,2026-10-25,3800,98
+Tondekai (ivy gourd),tondekai,2026-11-01,3750,103
+Tondekai (ivy gourd),tondekai,2026-11-08,4250,105
+Tuberose,tube-rose,2026-08-23,16000,11
+Tuberose,tube-rose,2026-08-30,15000,10
+Tuberose,tube-rose,2026-09-06,14500,11
+Tuberose,tube-rose,2026-09-13,18000,10
+Tuberose,tube-rose,2026-09-20,15250,9
+Tuberose,tube-rose,2026-09-27,10000,6
+Tuberose,tube-rose,2026-10-04,8000,10
+Tuberose,tube-rose,2026-10-11,8000,9
+Tuberose,tube-rose,2026-10-18,9500,10
+Tuberose,tube-rose,2026-10-25,9500,10
+Tuberose,tube-rose,2026-11-01,8000,10
+Tuberose,tube-rose,2026-11-08,8750,11
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-08-23,11800,15
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-08-30,11601,17
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-09-06,11000,15
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-09-13,11800,18
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-09-20,11800,18
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-09-27,11800,16
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-10-04,11470,18
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-10-11,12200,16
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-10-18,12150,15
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-10-25,11800,6
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-11-01,12500,18
+Tur dal (Arhar dal),red-gram-split-arhar-dal-tur-dal,2026-11-08,13041,11
+Turmeric,turmeric,2026-08-23,15650,19
+Turmeric,turmeric,2026-08-30,14974,24
+Turmeric,turmeric,2026-09-06,15259,28
+Turmeric,turmeric,2026-09-13,14986,24
+Turmeric,turmeric,2026-09-20,15294,20
+Turmeric,turmeric,2026-09-27,15250,24
+Turmeric,turmeric,2026-10-04,15550,32
+Turmeric,turmeric,2026-10-11,16632,24
+Turmeric,turmeric,2026-10-18,18074,21
+Turmeric,turmeric,2026-10-25,20000,11
+Turmeric,turmeric,2026-11-01,20589,17
+Turmeric,turmeric,2026-11-08,20500,11
+Turnip,turnip,2026-08-23,3800,9
+Turnip,turnip,2026-08-30,4000,10
+Turnip,turnip,2026-09-06,4500,11
+Turnip,turnip,2026-09-13,4500,14
+Turnip,turnip,2026-09-20,4000,11
+Turnip,turnip,2026-09-27,4000,13
+Turnip,turnip,2026-10-04,4000,12
+Turnip,turnip,2026-10-11,4550,14
+Turnip,turnip,2026-10-18,4750,17
+Turnip,turnip,2026-10-25,4100,20
+Turnip,turnip,2026-11-01,3800,26
+Turnip,turnip,2026-11-08,3700,28
+Urad dal,urad-dal,2026-08-23,9200,27
+Urad dal,urad-dal,2026-08-30,10762,28
+Urad dal,urad-dal,2026-09-06,10174,26
+Urad dal,urad-dal,2026-09-13,9200,26
+Urad dal,urad-dal,2026-09-20,10400,28
+Urad dal,urad-dal,2026-09-27,9000,30
+Urad dal,urad-dal,2026-10-04,9000,36
+Urad dal,urad-dal,2026-10-11,8850,31
+Urad dal,urad-dal,2026-10-18,9388,34
+Urad dal,urad-dal,2026-10-25,9400,20
+Urad dal,urad-dal,2026-11-01,11457,18
+Urad dal,urad-dal,2026-11-08,9969,17
+Watermelon,watermelon,2026-08-23,1750,60
+Watermelon,watermelon,2026-08-30,1750,54
+Watermelon,watermelon,2026-09-06,1750,58
+Watermelon,watermelon,2026-09-13,1750,67
+Watermelon,watermelon,2026-09-20,1800,71
+Watermelon,watermelon,2026-09-27,1900,66
+Watermelon,watermelon,2026-10-04,2000,66
+Watermelon,watermelon,2026-10-11,2100,62
+Watermelon,watermelon,2026-10-18,2000,59
+Watermelon,watermelon,2026-10-25,2100,49
+Watermelon,watermelon,2026-11-01,2200,55
+Watermelon,watermelon,2026-11-08,2250,50
+Wheat,wheat,2026-08-23,2550,607
+Wheat,wheat,2026-08-30,2550,586
+Wheat,wheat,2026-09-06,2600,584
+Wheat,wheat,2026-09-13,2601,565
+Wheat,wheat,2026-09-20,2600,578
+Wheat,wheat,2026-09-27,2600,560
+Wheat,wheat,2026-10-04,2600,592
+Wheat,wheat,2026-10-11,2600,534
+Wheat,wheat,2026-10-18,2635,530
+Wheat,wheat,2026-10-25,2701,375
+Wheat,wheat,2026-11-01,2850,390
+Wheat,wheat,2026-11-08,2800,352
+Yam,yam,2026-08-23,7125,93
+Yam,yam,2026-08-30,7000,91
+Yam,yam,2026-09-06,6500,96
+Yam,yam,2026-09-13,6400,97
+Yam,yam,2026-09-20,6400,104
+Yam,yam,2026-09-27,6500,106
+Yam,yam,2026-10-04,6250,103
+Yam,yam,2026-10-11,6000,106
+Yam,yam,2026-10-18,5900,109
+Yam,yam,2026-10-25,5800,103
+Yam,yam,2026-11-01,6000,101
+Yam,yam,2026-11-08,6000,105
+buttery,buttery,2026-08-23,3310,21
+buttery,buttery,2026-08-30,3353,21
+buttery,buttery,2026-09-06,3541,20
+buttery,buttery,2026-09-13,3721,21
+buttery,buttery,2026-09-20,3772,21
+buttery,buttery,2026-09-27,3730,23
+buttery,buttery,2026-10-04,3880,20
+buttery,buttery,2026-10-11,3961,26
+buttery,buttery,2026-10-18,4050,28
+buttery,buttery,2026-10-25,3930,22
+buttery,buttery,2026-11-01,3870,27
+buttery,buttery,2026-11-08,3800,27
+gulli,gulli,2026-08-23,5000,8
+gulli,gulli,2026-08-30,5300,10
+gulli,gulli,2026-09-06,5500,9
+gulli,gulli,2026-09-13,5610,5
+gulli,gulli,2026-09-20,5465,8
+gulli,gulli,2026-09-27,5612,7
+gulli,gulli,2026-10-04,5396,4
+gulli,gulli,2026-10-11,5482,6
+gulli,gulli,2026-10-18,5500,3
+gulli,gulli,2026-10-25,5400,2
+gulli,gulli,2026-11-01,5354,3
+gulli,gulli,2026-11-08,5210,3
