@@ -1,7 +1,7 @@
 # NECC egg rates by market, rupees per egg, average of each month. section = 'suggested' (NECC's suggested price) or 'prevailing' (the market price NECC reports).
 # NECC suggested egg prices (National Egg Co-ordination Committee, e2necc.com), averaged per month.
 # NECC's clarification, which must accompany NECC prices: “The daily egg prices suggested by NECC, on its official website or through any other medium (including verbal, print and digital media) are merely suggestive and not mandatory. The suggested prices are published solely for the reference and information of the trade and industry. NECC does not by itself or through any person enforce compliance or adherence with such suggested egg prices in any manner whatsoever. If any person not authorized by NECC chooses to disseminate NECC suggested prices through any medium, such person must also include the above clarification while disseminating NECC suggested prices of eggs.”
-# Built 2026-11-12 by Today Market Rates (todaymarketrates.com). Please credit the source and link to the page you used.
+# Built 2026-11-16 by Today Market Rates (todaymarketrates.com). Please credit the source and link to the page you used.
 market,state,section,month,average_rate_per_egg_inr,days
 Ahmedabad,Gujarat,suggested,2009-01,2.08,31
 Ahmedabad,Gujarat,suggested,2009-02,2.02,28
@@ -217,7 +217,7 @@ Ahmedabad,Gujarat,suggested,2026-07,7.03,31
 Ahmedabad,Gujarat,suggested,2026-08,5.55,31
 Ahmedabad,Gujarat,suggested,2026-09,5.73,30
 Ahmedabad,Gujarat,suggested,2026-10,5.85,31
-Ahmedabad,Gujarat,suggested,2026-11,6.80,11
+Ahmedabad,Gujarat,suggested,2026-11,6.84,15
 Ajmer,Rajasthan,suggested,2009-01,2.07,31
 Ajmer,Rajasthan,suggested,2009-02,1.93,28
 Ajmer,Rajasthan,suggested,2009-03,1.91,31
@@ -432,7 +432,7 @@ Ajmer,Rajasthan,suggested,2026-07,6.43,31
 Ajmer,Rajasthan,suggested,2026-08,5.22,31
 Ajmer,Rajasthan,suggested,2026-09,5.43,29
 Ajmer,Rajasthan,suggested,2026-10,5.54,31
-Ajmer,Rajasthan,suggested,2026-11,6.37,11
+Ajmer,Rajasthan,suggested,2026-11,6.37,14
 Barwala,Haryana,suggested,2009-02,1.90,27
 Barwala,Haryana,suggested,2009-03,1.90,31
 Barwala,Haryana,suggested,2009-04,1.77,30
@@ -646,7 +646,7 @@ Barwala,Haryana,suggested,2026-07,6.27,31
 Barwala,Haryana,suggested,2026-08,5.15,31
 Barwala,Haryana,suggested,2026-09,5.44,30
 Barwala,Haryana,suggested,2026-10,5.55,31
-Barwala,Haryana,suggested,2026-11,6.36,11
+Barwala,Haryana,suggested,2026-11,6.34,15
 Bengaluru,Karnataka,suggested,2009-01,1.91,31
 Bengaluru,Karnataka,suggested,2009-02,1.94,28
 Bengaluru,Karnataka,suggested,2009-03,2.00,31
@@ -861,7 +861,7 @@ Bengaluru,Karnataka,suggested,2026-07,7.10,31
 Bengaluru,Karnataka,suggested,2026-08,5.80,31
 Bengaluru,Karnataka,suggested,2026-09,5.83,30
 Bengaluru,Karnataka,suggested,2026-10,6.00,31
-Bengaluru,Karnataka,suggested,2026-11,7.00,11
+Bengaluru,Karnataka,suggested,2026-11,6.98,15
 Bhopal,Madhya Pradesh,prevailing,2009-02,1.98,28
 Bhopal,Madhya Pradesh,prevailing,2009-03,2.03,31
 Bhopal,Madhya Pradesh,prevailing,2009-04,1.88,30
@@ -1075,7 +1075,7 @@ Bhopal,Madhya Pradesh,prevailing,2026-07,6.85,31
 Bhopal,Madhya Pradesh,prevailing,2026-08,5.30,31
 Bhopal,Madhya Pradesh,prevailing,2026-09,5.52,29
 Bhopal,Madhya Pradesh,prevailing,2026-10,5.77,31
-Bhopal,Madhya Pradesh,prevailing,2026-11,6.85,11
+Bhopal,Madhya Pradesh,prevailing,2026-11,6.77,15
 Brahmapur (Berhampur),Odisha,suggested,2019-05,3.44,31
 Brahmapur (Berhampur),Odisha,suggested,2019-07,4.64,1
 Brahmapur (Berhampur),Odisha,suggested,2019-12,4.69,31
@@ -1161,7 +1161,7 @@ Brahmapur (Berhampur),Odisha,suggested,2026-07,6.70,31
 Brahmapur (Berhampur),Odisha,suggested,2026-08,5.44,31
 Brahmapur (Berhampur),Odisha,suggested,2026-09,5.92,30
 Brahmapur (Berhampur),Odisha,suggested,2026-10,5.95,31
-Brahmapur (Berhampur),Odisha,suggested,2026-11,6.65,11
+Brahmapur (Berhampur),Odisha,suggested,2026-11,6.60,15
 Chennai,Tamil Nadu,suggested,2009-01,1.92,31
 Chennai,Tamil Nadu,suggested,2009-02,2.01,28
 Chennai,Tamil Nadu,suggested,2009-03,2.06,31
@@ -1376,7 +1376,7 @@ Chennai,Tamil Nadu,suggested,2026-07,7.20,31
 Chennai,Tamil Nadu,suggested,2026-08,5.93,31
 Chennai,Tamil Nadu,suggested,2026-09,6.04,30
 Chennai,Tamil Nadu,suggested,2026-10,6.18,31
-Chennai,Tamil Nadu,suggested,2026-11,7.21,11
+Chennai,Tamil Nadu,suggested,2026-11,7.15,15
 Chittoor,Andhra Pradesh,suggested,2009-01,1.85,31
 Chittoor,Andhra Pradesh,suggested,2009-02,1.94,28
 Chittoor,Andhra Pradesh,suggested,2009-03,1.99,31
@@ -1591,7 +1591,7 @@ Chittoor,Andhra Pradesh,suggested,2026-07,7.13,31
 Chittoor,Andhra Pradesh,suggested,2026-08,5.86,31
 Chittoor,Andhra Pradesh,suggested,2026-09,5.97,30
 Chittoor,Andhra Pradesh,suggested,2026-10,6.11,31
-Chittoor,Andhra Pradesh,suggested,2026-11,7.14,11
+Chittoor,Andhra Pradesh,suggested,2026-11,7.07,16
 Delhi,Delhi,suggested,2009-01,2.13,31
 Delhi,Delhi,suggested,2009-02,2.02,28
 Delhi,Delhi,suggested,2009-03,2.01,31
@@ -1806,7 +1806,7 @@ Delhi,Delhi,suggested,2026-07,6.70,31
 Delhi,Delhi,suggested,2026-08,5.47,31
 Delhi,Delhi,suggested,2026-09,5.89,30
 Delhi,Delhi,suggested,2026-10,5.89,31
-Delhi,Delhi,suggested,2026-11,6.67,11
+Delhi,Delhi,suggested,2026-11,6.70,16
 East Godavari,Andhra Pradesh,suggested,2009-03,1.95,31
 East Godavari,Andhra Pradesh,suggested,2009-04,1.79,30
 East Godavari,Andhra Pradesh,suggested,2009-05,2.07,31
@@ -2019,7 +2019,7 @@ East Godavari,Andhra Pradesh,suggested,2026-07,6.45,31
 East Godavari,Andhra Pradesh,suggested,2026-08,5.22,31
 East Godavari,Andhra Pradesh,suggested,2026-09,5.65,30
 East Godavari,Andhra Pradesh,suggested,2026-10,5.68,31
-East Godavari,Andhra Pradesh,suggested,2026-11,6.49,11
+East Godavari,Andhra Pradesh,suggested,2026-11,6.39,16
 Hospet,Karnataka,suggested,2009-02,1.82,28
 Hospet,Karnataka,suggested,2009-03,1.85,31
 Hospet,Karnataka,suggested,2009-04,1.73,30
@@ -2212,7 +2212,7 @@ Hospet,Karnataka,suggested,2026-07,6.50,31
 Hospet,Karnataka,suggested,2026-08,5.20,31
 Hospet,Karnataka,suggested,2026-09,5.23,30
 Hospet,Karnataka,suggested,2026-10,5.40,31
-Hospet,Karnataka,suggested,2026-11,6.40,11
+Hospet,Karnataka,suggested,2026-11,6.38,15
 Hyderabad,Telangana,suggested,2009-01,1.89,31
 Hyderabad,Telangana,suggested,2009-02,1.84,28
 Hyderabad,Telangana,suggested,2009-03,1.94,31
@@ -2427,7 +2427,7 @@ Hyderabad,Telangana,suggested,2026-07,6.57,31
 Hyderabad,Telangana,suggested,2026-08,5.18,31
 Hyderabad,Telangana,suggested,2026-09,5.35,30
 Hyderabad,Telangana,suggested,2026-10,5.48,31
-Hyderabad,Telangana,suggested,2026-11,6.46,11
+Hyderabad,Telangana,suggested,2026-11,6.42,15
 Indore,Madhya Pradesh,prevailing,2009-01,2.10,31
 Indore,Madhya Pradesh,prevailing,2009-02,1.95,28
 Indore,Madhya Pradesh,prevailing,2009-03,1.99,31
@@ -2642,7 +2642,7 @@ Indore,Madhya Pradesh,prevailing,2026-07,6.70,31
 Indore,Madhya Pradesh,prevailing,2026-08,5.33,31
 Indore,Madhya Pradesh,prevailing,2026-09,5.54,29
 Indore,Madhya Pradesh,prevailing,2026-10,5.71,31
-Indore,Madhya Pradesh,prevailing,2026-11,6.72,11
+Indore,Madhya Pradesh,prevailing,2026-11,6.68,14
 Jabalpur,Madhya Pradesh,suggested,2009-01,2.07,31
 Jabalpur,Madhya Pradesh,suggested,2009-02,1.98,28
 Jabalpur,Madhya Pradesh,suggested,2009-03,2.05,31
@@ -2857,7 +2857,7 @@ Jabalpur,Madhya Pradesh,suggested,2026-07,6.84,31
 Jabalpur,Madhya Pradesh,suggested,2026-08,5.25,31
 Jabalpur,Madhya Pradesh,suggested,2026-09,5.43,30
 Jabalpur,Madhya Pradesh,suggested,2026-10,5.64,31
-Jabalpur,Madhya Pradesh,suggested,2026-11,6.72,11
+Jabalpur,Madhya Pradesh,suggested,2026-11,6.67,16
 Kanpur,Uttar Pradesh,prevailing,2009-02,2.10,28
 Kanpur,Uttar Pradesh,prevailing,2009-03,2.22,31
 Kanpur,Uttar Pradesh,prevailing,2009-04,2.05,30
@@ -3071,7 +3071,7 @@ Kanpur,Uttar Pradesh,prevailing,2026-07,6.77,31
 Kanpur,Uttar Pradesh,prevailing,2026-08,5.56,31
 Kanpur,Uttar Pradesh,prevailing,2026-09,5.79,30
 Kanpur,Uttar Pradesh,prevailing,2026-10,6.01,31
-Kanpur,Uttar Pradesh,prevailing,2026-11,6.95,11
+Kanpur,Uttar Pradesh,prevailing,2026-11,7.00,16
 Kolkata,West Bengal,suggested,2009-01,2.22,31
 Kolkata,West Bengal,suggested,2009-02,2.08,28
 Kolkata,West Bengal,suggested,2009-03,2.25,31
@@ -3286,7 +3286,7 @@ Kolkata,West Bengal,suggested,2026-07,7.11,31
 Kolkata,West Bengal,suggested,2026-08,5.95,31
 Kolkata,West Bengal,suggested,2026-09,6.38,30
 Kolkata,West Bengal,suggested,2026-10,6.37,31
-Kolkata,West Bengal,suggested,2026-11,7.10,11
+Kolkata,West Bengal,suggested,2026-11,7.00,16
 Lucknow,Uttar Pradesh,prevailing,2009-01,2.16,31
 Lucknow,Uttar Pradesh,prevailing,2009-02,2.11,28
 Lucknow,Uttar Pradesh,prevailing,2009-03,2.17,31
@@ -3501,7 +3501,7 @@ Lucknow,Uttar Pradesh,prevailing,2026-07,6.99,31
 Lucknow,Uttar Pradesh,prevailing,2026-08,5.67,31
 Lucknow,Uttar Pradesh,prevailing,2026-09,5.94,30
 Lucknow,Uttar Pradesh,prevailing,2026-10,6.05,31
-Lucknow,Uttar Pradesh,prevailing,2026-11,6.94,11
+Lucknow,Uttar Pradesh,prevailing,2026-11,6.96,16
 Ludhiana,Punjab,suggested,2009-02,1.90,28
 Ludhiana,Punjab,suggested,2009-04,1.71,30
 Ludhiana,Punjab,suggested,2009-05,1.94,27
@@ -3714,7 +3714,7 @@ Ludhiana,Punjab,suggested,2026-07,6.38,31
 Ludhiana,Punjab,suggested,2026-08,5.22,31
 Ludhiana,Punjab,suggested,2026-09,5.50,30
 Ludhiana,Punjab,suggested,2026-10,5.62,31
-Ludhiana,Punjab,suggested,2026-11,6.34,11
+Ludhiana,Punjab,suggested,2026-11,6.35,16
 Mumbai,Maharashtra,suggested,2009-01,2.11,31
 Mumbai,Maharashtra,suggested,2009-02,2.06,28
 Mumbai,Maharashtra,suggested,2009-03,2.16,31
@@ -3929,7 +3929,7 @@ Mumbai,Maharashtra,suggested,2026-07,7.23,31
 Mumbai,Maharashtra,suggested,2026-08,5.72,31
 Mumbai,Maharashtra,suggested,2026-09,5.98,29
 Mumbai,Maharashtra,suggested,2026-10,6.09,31
-Mumbai,Maharashtra,suggested,2026-11,7.04,11
+Mumbai,Maharashtra,suggested,2026-11,7.05,15
 Muzaffarpur,Bihar,prevailing,2019-01,4.79,31
 Muzaffarpur,Bihar,prevailing,2019-02,4.68,28
 Muzaffarpur,Bihar,prevailing,2019-03,4.02,31
@@ -4018,7 +4018,7 @@ Muzaffarpur,Bihar,prevailing,2026-07,6.95,31
 Muzaffarpur,Bihar,prevailing,2026-08,5.64,31
 Muzaffarpur,Bihar,prevailing,2026-09,6.02,30
 Muzaffarpur,Bihar,prevailing,2026-10,6.13,31
-Muzaffarpur,Bihar,prevailing,2026-11,6.93,11
+Muzaffarpur,Bihar,prevailing,2026-11,6.92,15
 Mysuru,Karnataka,suggested,2009-01,1.88,31
 Mysuru,Karnataka,suggested,2009-02,1.97,28
 Mysuru,Karnataka,suggested,2009-03,2.01,31
@@ -4233,7 +4233,7 @@ Mysuru,Karnataka,suggested,2026-07,7.21,31
 Mysuru,Karnataka,suggested,2026-08,5.82,31
 Mysuru,Karnataka,suggested,2026-09,5.94,30
 Mysuru,Karnataka,suggested,2026-10,6.22,31
-Mysuru,Karnataka,suggested,2026-11,7.14,11
+Mysuru,Karnataka,suggested,2026-11,7.08,15
 Nagpur,Maharashtra,prevailing,2009-01,1.99,31
 Nagpur,Maharashtra,prevailing,2009-02,1.94,28
 Nagpur,Maharashtra,prevailing,2009-03,2.00,31
@@ -4448,7 +4448,7 @@ Nagpur,Maharashtra,prevailing,2026-07,6.89,31
 Nagpur,Maharashtra,prevailing,2026-08,5.24,31
 Nagpur,Maharashtra,prevailing,2026-09,5.57,30
 Nagpur,Maharashtra,prevailing,2026-10,5.78,31
-Nagpur,Maharashtra,prevailing,2026-11,6.95,11
+Nagpur,Maharashtra,prevailing,2026-11,6.93,15
 Namakkal,Tamil Nadu,suggested,2009-01,1.88,31
 Namakkal,Tamil Nadu,suggested,2009-02,1.97,28
 Namakkal,Tamil Nadu,suggested,2009-03,2.01,31
@@ -4663,7 +4663,7 @@ Namakkal,Tamil Nadu,suggested,2026-07,6.55,31
 Namakkal,Tamil Nadu,suggested,2026-08,5.35,31
 Namakkal,Tamil Nadu,suggested,2026-09,5.45,30
 Namakkal,Tamil Nadu,suggested,2026-10,5.54,31
-Namakkal,Tamil Nadu,suggested,2026-11,6.51,11
+Namakkal,Tamil Nadu,suggested,2026-11,6.44,16
 Patna,Bihar,prevailing,2019-01,4.76,31
 Patna,Bihar,prevailing,2019-02,4.70,28
 Patna,Bihar,prevailing,2019-03,3.95,31
@@ -4752,7 +4752,7 @@ Patna,Bihar,prevailing,2026-07,6.95,31
 Patna,Bihar,prevailing,2026-08,5.64,31
 Patna,Bihar,prevailing,2026-09,6.02,30
 Patna,Bihar,prevailing,2026-10,6.13,31
-Patna,Bihar,prevailing,2026-11,6.93,11
+Patna,Bihar,prevailing,2026-11,6.92,15
 Prayagraj (Allahabad),Uttar Pradesh,prevailing,2009-02,2.09,28
 Prayagraj (Allahabad),Uttar Pradesh,prevailing,2009-03,2.17,31
 Prayagraj (Allahabad),Uttar Pradesh,prevailing,2009-04,2.00,30
@@ -4966,7 +4966,7 @@ Prayagraj (Allahabad),Uttar Pradesh,prevailing,2026-07,7.08,31
 Prayagraj (Allahabad),Uttar Pradesh,prevailing,2026-08,5.53,31
 Prayagraj (Allahabad),Uttar Pradesh,prevailing,2026-09,5.86,30
 Prayagraj (Allahabad),Uttar Pradesh,prevailing,2026-10,6.07,31
-Prayagraj (Allahabad),Uttar Pradesh,prevailing,2026-11,6.97,11
+Prayagraj (Allahabad),Uttar Pradesh,prevailing,2026-11,6.99,15
 Pune,Maharashtra,suggested,2009-02,1.90,28
 Pune,Maharashtra,suggested,2009-03,2.18,31
 Pune,Maharashtra,suggested,2009-04,2.01,30
@@ -5180,7 +5180,7 @@ Pune,Maharashtra,suggested,2026-07,7.29,31
 Pune,Maharashtra,suggested,2026-08,5.63,31
 Pune,Maharashtra,suggested,2026-09,5.83,30
 Pune,Maharashtra,suggested,2026-10,6.05,31
-Pune,Maharashtra,suggested,2026-11,7.01,11
+Pune,Maharashtra,suggested,2026-11,7.03,16
 Raipur,Chhattisgarh,suggested,2009-02,1.98,28
 Raipur,Chhattisgarh,suggested,2009-03,2.03,31
 Raipur,Chhattisgarh,suggested,2009-04,1.83,30
@@ -5394,7 +5394,7 @@ Raipur,Chhattisgarh,suggested,2026-07,6.65,31
 Raipur,Chhattisgarh,suggested,2026-08,5.04,30
 Raipur,Chhattisgarh,suggested,2026-09,5.39,30
 Raipur,Chhattisgarh,suggested,2026-10,5.55,31
-Raipur,Chhattisgarh,suggested,2026-11,6.50,11
+Raipur,Chhattisgarh,suggested,2026-11,6.42,15
 Ranchi,Jharkhand,prevailing,2019-01,4.89,31
 Ranchi,Jharkhand,prevailing,2019-02,4.79,28
 Ranchi,Jharkhand,prevailing,2019-03,4.18,31
@@ -5483,7 +5483,7 @@ Ranchi,Jharkhand,prevailing,2026-07,7.07,31
 Ranchi,Jharkhand,prevailing,2026-08,5.76,31
 Ranchi,Jharkhand,prevailing,2026-09,6.13,30
 Ranchi,Jharkhand,prevailing,2026-10,6.12,31
-Ranchi,Jharkhand,prevailing,2026-11,6.87,11
+Ranchi,Jharkhand,prevailing,2026-11,6.88,15
 Surat,Gujarat,suggested,2017-11,4.45,1
 Surat,Gujarat,suggested,2019-01,4.85,31
 Surat,Gujarat,suggested,2019-02,4.83,28
@@ -5573,7 +5573,7 @@ Surat,Gujarat,suggested,2026-07,7.12,31
 Surat,Gujarat,suggested,2026-08,5.53,31
 Surat,Gujarat,suggested,2026-09,5.77,30
 Surat,Gujarat,suggested,2026-10,5.96,31
-Surat,Gujarat,suggested,2026-11,6.94,11
+Surat,Gujarat,suggested,2026-11,6.96,15
 Varanasi,Uttar Pradesh,prevailing,2009-01,2.16,31
 Varanasi,Uttar Pradesh,prevailing,2009-02,2.17,28
 Varanasi,Uttar Pradesh,prevailing,2009-03,2.24,31
@@ -5788,7 +5788,7 @@ Varanasi,Uttar Pradesh,prevailing,2026-07,6.94,31
 Varanasi,Uttar Pradesh,prevailing,2026-08,5.64,31
 Varanasi,Uttar Pradesh,prevailing,2026-09,5.99,30
 Varanasi,Uttar Pradesh,prevailing,2026-10,6.05,31
-Varanasi,Uttar Pradesh,prevailing,2026-11,6.85,11
+Varanasi,Uttar Pradesh,prevailing,2026-11,6.88,15
 Vijayawada,Andhra Pradesh,suggested,2009-01,1.88,31
 Vijayawada,Andhra Pradesh,suggested,2009-02,1.82,28
 Vijayawada,Andhra Pradesh,suggested,2009-03,1.95,31
@@ -6003,7 +6003,7 @@ Vijayawada,Andhra Pradesh,suggested,2026-07,6.78,31
 Vijayawada,Andhra Pradesh,suggested,2026-08,5.41,31
 Vijayawada,Andhra Pradesh,suggested,2026-09,5.81,30
 Vijayawada,Andhra Pradesh,suggested,2026-10,5.96,31
-Vijayawada,Andhra Pradesh,suggested,2026-11,6.95,11
+Vijayawada,Andhra Pradesh,suggested,2026-11,6.73,16
 Visakhapatnam (Vizag),Andhra Pradesh,suggested,2009-01,2.00,31
 Visakhapatnam (Vizag),Andhra Pradesh,suggested,2009-02,1.97,28
 Visakhapatnam (Vizag),Andhra Pradesh,suggested,2009-03,2.08,31
@@ -6218,7 +6218,7 @@ Visakhapatnam (Vizag),Andhra Pradesh,suggested,2026-07,6.51,31
 Visakhapatnam (Vizag),Andhra Pradesh,suggested,2026-08,5.22,31
 Visakhapatnam (Vizag),Andhra Pradesh,suggested,2026-09,5.66,30
 Visakhapatnam (Vizag),Andhra Pradesh,suggested,2026-10,5.73,31
-Visakhapatnam (Vizag),Andhra Pradesh,suggested,2026-11,6.52,12
+Visakhapatnam (Vizag),Andhra Pradesh,suggested,2026-11,6.46,16
 Warangal,Telangana,suggested,2009-01,1.90,31
 Warangal,Telangana,suggested,2009-02,1.85,28
 Warangal,Telangana,suggested,2009-03,1.95,31
@@ -6433,7 +6433,7 @@ Warangal,Telangana,suggested,2026-07,6.59,31
 Warangal,Telangana,suggested,2026-08,5.20,31
 Warangal,Telangana,suggested,2026-09,5.37,30
 Warangal,Telangana,suggested,2026-10,5.50,31
-Warangal,Telangana,suggested,2026-11,6.48,11
+Warangal,Telangana,suggested,2026-11,6.44,15
 West Godavari,Andhra Pradesh,suggested,2009-01,1.88,31
 West Godavari,Andhra Pradesh,suggested,2009-02,1.82,28
 West Godavari,Andhra Pradesh,suggested,2009-03,1.95,31
@@ -6648,4 +6648,4 @@ West Godavari,Andhra Pradesh,suggested,2026-07,6.45,31
 West Godavari,Andhra Pradesh,suggested,2026-08,5.22,31
 West Godavari,Andhra Pradesh,suggested,2026-09,5.65,30
 West Godavari,Andhra Pradesh,suggested,2026-10,5.68,31
-West Godavari,Andhra Pradesh,suggested,2026-11,6.49,11
+West Godavari,Andhra Pradesh,suggested,2026-11,6.39,16

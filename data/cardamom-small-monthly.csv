@@ -1,5 +1,5 @@
 # Small cardamom e-auctions (Spices Board of India, indianspices.com): average price weighted by quantity sold, quantity sold and the best lot, by month.
-# Built 2026-11-12 by Today Market Rates (todaymarketrates.com). Please credit the source and link to the page you used.
+# Built 2026-11-16 by Today Market Rates (todaymarketrates.com). Please credit the source and link to the page you used.
 month,average_price_per_kg_inr,sold_tonnes,highest_lot_per_kg_inr,auction_days
 2025-10,2489,2779.4,3349,17
 2025-11,2452,4125.9,3341,24
@@ -14,4 +14,4 @@ month,average_price_per_kg_inr,sold_tonnes,highest_lot_per_kg_inr,auction_days
 2026-08,3066,2402.3,5101,24
 2026-09,3135,3538.5,4520,25
 2026-10,3121,3883.0,4393,23
-2026-11,3091,1052.6,4003,9
+2026-11,3067,1520.3,4003,12

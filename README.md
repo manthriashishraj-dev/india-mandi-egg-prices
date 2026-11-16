@@ -5,12 +5,12 @@ Free price history for India from official sources, cleaned and summarised by
 mandi crop, vegetable and cardamom prices in English and Telugu.
 
 - **Mandi crop prices:** Agmarknet (Directorate of Marketing & Inspection, Government of India, via data.gov.in). The
-  India median price per quintal of 173 crops, by month (2002-02 to 2026-11) and by week.
+  India median price per quintal of 166 crops, by month (2002-02 to 2026-11) and by week.
 - **Egg rates:** NECC (National Egg Co-ordination Committee). The India average and 34 markets, rupees per
   egg, by month (2009-01 to 2026-11).
 - **Small cardamom:** Spices Board of India e-auctions. Average price per kg, quantity sold and the best lot, by month.
 
-Last updated **12 Nov 2026**. The same files are on [todaymarketrates.com/data](https://todaymarketrates.com/data/), and this
+Last updated **16 Nov 2026**. The same files are on [todaymarketrates.com/data](https://todaymarketrates.com/data/), and this
 repository is refreshed from there every week.
 
 ## Files
@@ -20,8 +20,8 @@ repository is refreshed from there every week.
 | [`cardamom-small-monthly.csv`](data/cardamom-small-monthly.csv) | Small cardamom auctions: average price, quantity sold, best lot, by month | 14 | 2025-10 to 2026-11 |
 | [`egg-india-monthly.csv`](data/egg-india-monthly.csv) | NECC egg rate, India average per egg, by month | 215 | 2009-01 to 2026-11 |
 | [`egg-markets-monthly.csv`](data/egg-markets-monthly.csv) | NECC egg rate for each of 34 markets, by month | 6,646 | 2009-01 to 2026-11 |
-| [`mandi-india-monthly.csv`](data/mandi-india-monthly.csv) | Mandi prices of 173 crops, India median per quintal, by month | 19,634 | 2002-02 to 2026-11 |
-| [`mandi-india-weekly.csv`](data/mandi-india-weekly.csv) | Mandi prices by week (the figures in our weekly reports) | 1,958 | 2026-08-23 to 2026-11-08 |
+| [`mandi-india-monthly.csv`](data/mandi-india-monthly.csv) | Mandi prices of 166 crops, India median per quintal, by month | 19,609 | 2002-02 to 2026-11 |
+| [`mandi-india-weekly.csv`](data/mandi-india-weekly.csv) | Mandi prices by week (the figures in our weekly reports) | 2,068 | 2026-08-23 to 2026-11-15 |
 
 Lines starting with `#` at the top of each file are notes (source and conditions); the data starts after them. In
 Python: `pandas.read_csv("data/mandi-india-monthly.csv", comment="#")`. Prices are in Indian rupees (INR); mandi prices

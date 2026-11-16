@@ -1,7 +1,7 @@
 # India average of NECC suggested egg rates, rupees per egg, by month (days with at least 90% of markets reporting).
 # NECC suggested egg prices (National Egg Co-ordination Committee, e2necc.com), averaged per month.
 # NECC's clarification, which must accompany NECC prices: “The daily egg prices suggested by NECC, on its official website or through any other medium (including verbal, print and digital media) are merely suggestive and not mandatory. The suggested prices are published solely for the reference and information of the trade and industry. NECC does not by itself or through any person enforce compliance or adherence with such suggested egg prices in any manner whatsoever. If any person not authorized by NECC chooses to disseminate NECC suggested prices through any medium, such person must also include the above clarification while disseminating NECC suggested prices of eggs.”
-# Built 2026-11-12 by Today Market Rates (todaymarketrates.com). Please credit the source and link to the page you used.
+# Built 2026-11-16 by Today Market Rates (todaymarketrates.com). Please credit the source and link to the page you used.
 month,india_average_rate_per_egg_inr,days
 2009-01,1.98,31
 2009-02,1.94,28
@@ -217,4 +217,4 @@ month,india_average_rate_per_egg_inr,days
 2026-08,5.44,31
 2026-09,5.69,30
 2026-10,5.81,31
-2026-11,6.72,11
+2026-11,6.69,14
